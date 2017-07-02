@@ -1,0 +1,259 @@
+[Adblock Plus 2.0]
+! Title: AlleBlock - Ukrywa uciazliwe i zbedne elementy polskich serwisow Grupy Allegro
+!
+! Version: 20170630
+!
+! Homepage: https://alleblock.pl
+!
+! blablabla [malpa] alleblock [kropka] pl
+!
+! Expires: 1 days
+!
+! License: CC BY-NC 4.0
+
+! ****************************** ALLEGRO.PL ******************************
+
+! Strona glowna
+
+	allegro.pl##div[data-box-name="Showcase main"]
+	allegro.pl##div[data-box-name="Showcase brand and marketing"]
+	allegro.pl##div[data-box-name="reklamy APE"]
+	allegro.pl##div[data-box-name="Showcases"]
+	allegro.pl##div[data-box-name="Reco container"]
+	allegro.pl##div[data-box-name="Wyjątkowe okazje dla Ciebie"]
+	allegro.pl##div[data-box-name="Showcase carousel"]
+	allegro.pl##div[data-box-name="Baner 980x180"]
+	allegro.pl##div[data-box-name="Bądźmy blisko i mobilne"]
+	allegro.pl##div[data-box-name="Ostatnio przeglądane"]
+	allegro.pl##div[data-analytics-category="allegro.advertisement"]
+	allegro.pl##div[data-box-name="header.layer.electronics.smallShowcase"]
+	allegro.pl##div[data-box-name="header.layer.sports.smallShowcase"]
+	allegro.pl##div[data-box-name="header.layer.automotive.smallShowcase"]
+	allegro.pl##div#cookie-policy-banner
+	allegro.pl##div.parallax
+	allegro.pl##div#installments-banner-container
+
+! Strona kategorii
+
+	allegro.pl##div[data-box-name="VIP OFFERS"]
+	allegro.pl##div[data-box-name="okazje dnia"]
+	allegro.pl##div[data-box-name="logotypy sma"]
+	allegro.pl##div[data-box-name="Oficjalny sklep Allegro"]
+	allegro.pl##div[data-box-name="polecane artykuły"]
+	allegro.pl##div[data-box-name="lewy_prawy"]
+	allegro.pl##div[data-box-name="promowane oferty"]
+	allegro.pl##div[data-box-name="tracking pixel for ads"]
+	allegro.pl##div[data-box-name="Torebki"]
+	allegro.pl##div[data-box-name="Karuzela Strefy Okazji"]
+	allegro.pl##div[data-box-name="artykuly"]
+	allegro.pl##div[data-box-name="offers_promo"]
+	allegro.pl##div[data-box-name="Przygotowania ogrodu do sezonu"]
+	allegro.pl##div[data-box-name="polecane poradniki"]
+	allegro.pl##div[data-box-name="niezbedne narzedzia w ogrodzie"]
+	allegro.pl##div[data-box-name="polecane poradniki Niezbędne narzędzia w ogrodzie"]
+	allegro.pl##div[data-box-name="Wypoczynek w ogrodzie"]
+	allegro.pl##div[data-box-name="logotypy_ogrod"]
+	allegro.pl##div[data-box-name="Inspiracje"]
+	allegro.pl##div[data-box-name="showcase1"]
+	allegro.pl##div[data-box-name="kafle podstawa"]
+	allegro.pl##div[data-box-name="Najlepsze oferty na Dzień Dziecka"]
+	allegro.pl##div[data-box-name="dzień dziecka_banner"]
+	allegro.pl##div[data-box-name="kartka-sma"]
+	allegro.pl##div[data-box-name="ulubieni-bohaterowie-wrapper"]
+	allegro.pl##div[data-box-name="reklamy ape"]
+	allegro.pl##div[data-box-name="dzień dziecka"]
+	allegro.pl##div[data-box-name="DD kafle"]
+	allegro.pl##div[data-box-name="DD karuzelka"]
+	allegro.pl##div[data-box-name="popularni.autorzy"]
+	allegro.pl##div[data-box-name="plec"]
+	allegro.pl##div[data-box-name="rodzaje_sportow_container"]
+	allegro.pl##div[data-box-name="layout.container_Strefa Marek allegro"]
+	allegro.pl##div[data-box-name="layout.container_najlepsze oferty"]
+	allegro.pl##div[data-box-name="layout.container_tire_finder"]
+	allegro.pl##div[data-box-name="layout.container_logotypes"]
+	allegro.pl##div[data-box-name="layout.containerVIP"]
+	allegro.pl##div[data-box-name="karuzela okazji"]
+	allegro.pl##div[data-box-name="promowane.container"]
+	allegro.pl##div[data-box-name="promowane"]
+	allegro.pl##div[data-box-name="wiosenne oferty dla niej"]
+	allegro.pl##div[data-box-name="wiosenne oferty dla niego"]
+	allegro.pl##div[data-box-name="kupony"]
+	allegro.pl##div[data-box-name="video_zagadki"]
+	allegro.pl##div[data-box-name="wyprzedaz_retail"]
+	allegro.pl##div[data-box-name="wyprzedaż"]
+	allegro.pl##div[data-box-name="kupony_next"]
+	allegro.pl##div[data-box-name="logotypy_sm"]
+	allegro.pl##div[data-box-name="hide_layout.container_Strefa Marek allegro"]
+	allegro.pl##div[data-box-name="hide_Zabawa na dworze z dzieckiem"]
+	allegro.pl##div[data-box-name="Zegarki VIP"]
+	allegro.pl##div[data-box-name="mix kuponow"]
+	allegro.pl##div[data-box-name="video"]
+	allegro.pl##div[data-box-name="oferty z osa_new"]
+	allegro.pl##div[data-box-name="show_lazienka"]
+	allegro.pl##div[data-box-name="kupuj w kategorii łazienka"]
+	allegro.pl##div[data-box-name="narzedzia_remont"]
+	allegro.pl##div[data-box-name="kuchnia_remont"]
+	allegro.pl##div[data-box-name="lazienka_remont"]
+	allegro.pl##div[data-box-name="poradniki_remont"]
+	allegro.pl##div[data-box-name="okazje_remont"]
+	allegro.pl##div[data-box-name="kartka-toys-by-age"]
+	allegro.pl##div[data-box-name="Zabawa na dworze z dzieckiem"]
+
+	! Jak sie cos bedzie wykrzaczac na stronie kategorii "Moda i uroda", to przyjrzec sie ponizszej regule
+	! 20170615 - no i popsulo wyszukiwarke
+	! 20170615 wieczorem - naprawiamy przez dodanie child selector w kategorii "Moda i uroda"; jest inny niż w wynikach wyszukiwania
+
+	allegro.pl##div.opbox-sheet.card > div[data-box-name="layout.container1"]
+
+! Lista przedmiotow
+
+	allegro.pl##div[data-box-name="offer_ads"]
+	allegro.pl##section[class*="_61c59e4"]
+	allegro.pl##div[data-box-name="rekomendacje dla Ciebie"]
+	allegro.pl##div[data-box-name="articles"]
+
+! Strona przedmiotu
+
+	allegro.pl##div.carousel-container.-theme.advertising.overflow.init
+	allegro.pl##div.carousel-container.-theme.recommended.overflow.init
+
+! Koszyk
+
+	allegro.pl##div.modal.info-modal.modal-carousel.show
+	allegro.pl##div[offers="offersForReco"]
+
+! Archiwum Allegro
+
+	archiwum.allegro.pl##div.sliderContainer
+
+! Inspiracje Allegro
+
+	inspiracje.allegro.pl##div#cookie-info-container
+
+! Skrypty/Trackery/Zasoby
+
+	||asa.allegro.pl/*$domain=allegro.pl
+	||asa.allegrostatic.com/display-pl/*$domain=allegro.pl
+	||assets.allegrostatic.pl/opbox/allegro.pl/playground/*$domain=allegro.pl
+	||criteo.com/*$domain=allegro.pl
+	||emiter.allegrostatic.pl/*$domain=allegro.pl
+	||gemius.pl/*$domain=allegro.pl
+	||googletagmanager.com/*$domain=allegro.pl
+	||ngacm.com/*$domain=allegro.pl
+	||ngastatic.com/*$domain=allegro.pl
+	||usabilla.com/*$domain=allegro.pl
+	||optimizely.com/*$domain=allegro.pl
+	||assets.allegrostatic.pl/opbox-advertisement-box/*$domain=allegro.pl
+	||assets.allegrostatic.pl/opbox-advertisement/*$domain=allegro.pl
+	||assets.allegrostatic.pl/opbox-listing-seo/*$domain=allegro.pl
+	||assets.allegrostatic.pl/opbox-rich-text/*$domain=allegro.pl
+	||doubleclick.net/*$domain=allegro.pl
+	||facebook.net/*$domain=allegro.pl
+	||facebook.com/*$domain=allegro.pl
+	||newrelic.com/*$domain=allegro.pl
+	||nr-data.net/*$domain=allegro.pl
+	||youtube.com/*$domain=allegro.pl
+
+! ****************************** CENEO.PL ******************************
+
+! Strona glowna
+
+	ceneo.pl##div#js_cookie-monster
+	ceneo.pl##div.showcase-view
+	ceneo.pl##div.home-pop-prod
+	ceneo.pl##div.home-mini-showcase
+	ceneo.pl##div.js_widget.widget-desktop.widget-mobile
+	ceneo.pl##div.home-popular-brands
+	ceneo.pl##div.home-adboxes
+	ceneo.pl##div.home-full-width.home-recommend-prod
+	ceneo.pl##div[class*="lnd_article-main"]
+	ceneo.pl##div#recent-activities
+	ceneo.pl##div.cat-menu-creation.cat-menu-creation--large
+
+! Strona kategorii
+
+	ceneo.pl##div.js_rec-container
+	ceneo.pl##aside.recommended-products
+	ceneo.pl##div.linked-content
+	ceneo.pl##section.store-zones
+	ceneo.pl##div.main-page-boxes
+	ceneo.pl##aside.aside.js_top-manufacturers-section
+	ceneo.pl##div.custom-filter-box.js_custom-filter-trigger
+	ceneo.pl##div#category-description
+
+! Lista produktow
+
+	ceneo.pl##section.manufacturer-zone.js_manufacturer-zone-selector-section
+	ceneo.pl##div.highlighted-offers.js_category-list-body
+	ceneo.pl##aside#nph
+	ceneo.pl##aside.promoted-products.vertical
+	ceneo.pl##div.expert-articles.js_expert-articles-box
+	ceneo.pl##div.product-list-reviews.js_product-list-reviews-box
+
+! Strona produktu
+
+	ceneo.pl##aside.promoted-products
+	ceneo.pl##section.popular-reviews.js_product-reviews-sample
+
+! Strona sprzedawcy
+
+	ceneo.pl##div.sb-title
+	ceneo.pl##div.sb-box-card
+
+! Moje Ceneo
+
+	ceneo.pl##div.favorites-section.js_clipboard-carousel
+
+! Mobilne Ceneo
+
+	m.ceneo.pl##div.row.promobox-container
+	m.ceneo.pl##div.manufacturers-container.white.z-depth-1
+	m.ceneo.pl##div.js_recommendations-container.anim--reveal.row.padding--top.padding--bottom.white.card.swipe-box-header
+	m.ceneo.pl##div.row.swipe-box-container.white.no-margin--bottom
+	m.ceneo.pl##div.js_recommendations-placeholder
+	m.ceneo.pl##div.mobile-section-title.manufacturer-zones-title.grey-text.text-darken-1
+	m.ceneo.pl##div.cat-manufacturer-logotypes
+	m.ceneo.pl##div.row.center.showcase-row
+
+! Magazyn Ceneo
+
+	~magazyn.ceneo.pl##div[class*="lnd_article-main"]
+	@@image.ceneo.pl/data/article_picture/*$domain=magazyn.ceneo.pl
+	@@ceneo.pl/Scripts/dist/Shared/articles/*$domain=magazyn.ceneo.pl
+
+! Skrypty/Trackery/Zasoby
+
+	||analytics.ceneo.pl/*$domain=ceneo.pl
+	||betweendigital.com/*$domain=ceneo.pl
+	||casalemedia.com/*$domain=ceneo.pl
+	||ceneo.pl/Home/RecommendationsForMainPage$domain=ceneo.pl
+	||ceneo.pl/recent-activities$domain=ceneo.pl
+	||ceneo.pl/Scripts/dist/Desktop/favoriteProducts.js$domain=ceneo.pl
+	||ceneo.pl/Scripts/dist/Desktop/questionaires/trustedReviewsWithoutAgreement.js$domain=ceneo.pl
+	||ceneo.pl/Scripts/dist/Shared/articles/*$domain=ceneo.pl
+	||ceneo.pl/Scripts/dist/shared/utils/blockerinfo.js$domain=ceneo.pl
+	||ceneo.pl/Scripts/dist/Shared/widgets/*$domain=ceneo.pl
+	||ceneo.pl/TrackPartnerVisit$domain=ceneo.pl
+	||cloudfront.net/*$domain=ceneo.pl
+	||doubleclick.net/*$domain=ceneo.pl
+	||facebook.com/*$domain=ceneo.pl
+	||facebook.net/*$domain=ceneo.pl
+	||google-analytics.com/*$domain=ceneo.pl
+	||google.com/pagead/*$domain=ceneo.pl
+	||google.pl/pagead/*$domain=ceneo.pl
+	||googleadservices.com/*$domain=ceneo.pl
+	||googletagmanager.com/*$domain=ceneo.pl
+	||googletagservices.com/*$domain=ceneo.pl
+	||image.ceneo.pl/data/article_picture/*$domain=ceneo.pl
+	||image.ceneo.pl/data/man_zones_logo_s/*$domain=ceneo.pl
+	||image.ceneo.pl/data/mobile_main_page_promo_box/*$domain=ceneo.pl
+	||image.ceneo.pl/data/showcase_picture/*$domain=ceneo.pl
+	||msecnd.net/*$domain=ceneo.pl
+	||visualstudio.com/*$domain=ceneo.pl
+	||youtube.com/*$domain=ceneo.pl
+
+! ****************************** OLX.PL ******************************
+! ****************************** OPINEO.PL ******************************
+! ****************************** OTODOM.PL ******************************
+! ****************************** OTOMOTO.PL ******************************
+! ****************************** SKAPIEC.PL ******************************
