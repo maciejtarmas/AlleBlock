@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: AlleBlock - Ukrywa uciazliwe i zbedne elementy polskich serwisow Grupy Allegro
 !
-! Version: 20170630
+! Version: 20170704
 !
 ! Homepage: https://alleblock.pl
 !
@@ -214,6 +214,7 @@
 	m.ceneo.pl##div.mobile-section-title.manufacturer-zones-title.grey-text.text-darken-1
 	m.ceneo.pl##div.cat-manufacturer-logotypes
 	m.ceneo.pl##div.row.center.showcase-row
+	m.ceneo.pl##div.footer-content
 
 ! Magazyn Ceneo
 
@@ -248,6 +249,7 @@
 	||image.ceneo.pl/data/man_zones_logo_s/*$domain=ceneo.pl
 	||image.ceneo.pl/data/mobile_main_page_promo_box/*$domain=ceneo.pl
 	||image.ceneo.pl/data/showcase_picture/*$domain=ceneo.pl
+	||image.ceneo.pl/data/footer_widget/*$domain=ceneo.pl
 	||msecnd.net/*$domain=ceneo.pl
 	||visualstudio.com/*$domain=ceneo.pl
 	||youtube.com/*$domain=ceneo.pl
