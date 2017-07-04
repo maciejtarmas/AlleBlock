@@ -1,4 +1,4 @@
-# AlleBlock
+![AlleBlock](https:/alleblock.pl/social_share_tile.png)
 
 https://alleblock.pl/
 
