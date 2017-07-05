@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: AlleBlock - Ukrywa uciazliwe i zbedne elementy polskich serwisow Grupy Allegro
 !
-! Version: 20170704
+! Version: 20170705
 !
 ! Homepage: https://alleblock.pl
 !
@@ -129,6 +129,11 @@
 ! Inspiracje Allegro
 
 	inspiracje.allegro.pl##div#cookie-info-container
+
+! Przerwa techniczna
+
+	allegro.pl##div.line
+	allegro.pl##section#mobile-apps
 
 ! Skrypty/Trackery/Zasoby
 
