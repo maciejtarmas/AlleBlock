@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: AlleBlock - Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20170711g
+! Version: 20170711h
 !
 ! Homepage: https://alleblock.pl
 !
@@ -141,6 +141,7 @@
 	||asa.allegrostatic.com/display-pl/*$domain=allegro.pl
 	||assets.allegrostatic.pl/opbox/allegro.pl/playground/*$domain=allegro.pl
 	||criteo.com/*$domain=allegro.pl
+	||criteo.net/*$domain=allegro.pl
 	||emiter.allegrostatic.pl/*$domain=allegro.pl
 	||gemius.pl/*$domain=allegro.pl
 	||googletagmanager.com/*$domain=allegro.pl
@@ -326,6 +327,8 @@
 	||tradedoubler.com/*$domain=olx.pl
 	||xiti.com/*$domain=olx.pl
 	||myvisualiq.net/*$domain=olx.pl
+	||criteo.net/*$domain=olx.pl
+	||criteo.com/*$domain=olx.pl
 
 ! ****************************** OPINEO.PL ******************************
 
