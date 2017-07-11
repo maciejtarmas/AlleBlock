@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: AlleBlock - Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20170711d
+! Version: 20170711e
 !
 ! Homepage: https://alleblock.pl
 !
@@ -311,6 +311,7 @@
 	||googletagservices.com/*$domain=olx.pl
 	||olx.pl/static/olxpl/naspersclassifieds-regional/olxeu-atlas-web/static/js/advertising.js$domain=olx.pl
 	||olx.pl/static/olxpl/naspersclassifieds-regional/olxeu-atlas-web/static/js/newrelic.js$domain=olx.pl
+	||olx.pl/static/olxpl/naspersclassifieds-regional/olxeu-atlas-web/static/js/px.js$domain=olx.pl
 	||olx.pl/static/olxpl/naspersclassifieds-regional/olxeu-atlas-web/static/js/tracking/ninja.js$domain=olx.pl
 	||optimizely.com/*$domain=olx.pl
 	||tradedoubler.com/*$domain=olx.pl
