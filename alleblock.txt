@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Title: AlleBlock - Ukrywa uciążliwe i zbędne elementy polskich serwisow e-commerce
+! Title: AlleBlock - Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20170711
+! Version: 20170711c
 !
 ! Homepage: https://alleblock.pl
 !
@@ -259,6 +259,10 @@
 	||visualstudio.com/*$domain=ceneo.pl
 	||youtube.com/*$domain=ceneo.pl
 
+! ****************************** GUMTREE.PL ******************************
+
+! ****************************** NOKAUT.PL ******************************
+
 ! ****************************** OLX.PL ******************************
 
 ! Strona glowna
@@ -275,6 +279,7 @@
 	olx.pl##div.badge-jobcategory.js-badge-jobcategory
 	olx.pl##div#favoritesGalleryBox
 	olx.pl##div#geo-suggestions
+	olx.pl##div#categoryLinksHeader
 	
 ! Strona przedmiotu
 
@@ -312,6 +317,9 @@
 	||xiti.com/*$domain=olx.pl
 
 ! ****************************** OPINEO.PL ******************************
+
 ! ****************************** OTODOM.PL ******************************
+
 ! ****************************** OTOMOTO.PL ******************************
+
 ! ****************************** SKAPIEC.PL ******************************
