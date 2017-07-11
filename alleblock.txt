@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: AlleBlock - Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20170711h
+! Version: 20170711i
 !
 ! Homepage: https://alleblock.pl
 !
@@ -195,6 +195,7 @@
 	ceneo.pl##aside.promoted-products.vertical
 	ceneo.pl##div.expert-articles.js_expert-articles-box
 	ceneo.pl##div.product-list-reviews.js_product-list-reviews-box
+	ceneo.pl##div.billboard
 
 ! Strona produktu
 
