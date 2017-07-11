@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Title: AlleBlock - Ukrywa uciazliwe i zbedne elementy polskich serwisow Grupy Allegro
+! Title: AlleBlock - Ukrywa uciążliwe i zbędne elementy polskich serwisow e-commerce
 !
-! Version: 20170705
+! Version: 20170711
 !
 ! Homepage: https://alleblock.pl
 !
@@ -260,6 +260,57 @@
 	||youtube.com/*$domain=ceneo.pl
 
 ! ****************************** OLX.PL ******************************
+
+! Strona glowna
+
+	olx.pl##div#cookiesBar
+	olx.pl##section.mainpage-gallery.clr
+	olx.pl##section#mainpageAds
+	olx.pl##div.wrapper.small.clr.brbott-12.rel
+	
+! Strona kategorii/podkategorii
+
+	olx.pl##div#subSelect1485
+	olx.pl##div#categoryLinksSuggestions
+	olx.pl##div.badge-jobcategory.js-badge-jobcategory
+	olx.pl##div#favoritesGalleryBox
+	olx.pl##div#geo-suggestions
+	
+! Strona przedmiotu
+
+	olx.pl##div.addedbymobile
+	olx.pl##div#fb-root
+	olx.pl##div#fb_offerLikeButton
+	olx.pl##span.user-fast
+	
+! Interfejs dotykowy
+
+	olx.pl##div#cookiesBottomBar
+	olx.pl##div#appsBottomBar
+	
+! Interfejs mobilny
+
+	olx.pl##div.topinfo.bg-6.pding04em
+
+! Skrypty/Trackery/Zasoby
+
+	||adform.net/*$domain=olx.pl
+	||cedexis.com/*$domain=olx.pl
+	||doubleclick.net/*$domain=olx.pl
+	||facebook.com/*$domain=olx.pl
+	||facebook.net/*$domain=olx.pl
+	||gemius.pl/*$domain=olx.pl
+	||google-analytics.com/*$domain=olx.pl
+	||google.com/adsense/*$domain=olx.pl
+	||googletagmanager.com/*$domain=olx.pl
+	||googletagservices.com/*$domain=olx.pl
+	||olx.pl/static/olxpl/naspersclassifieds-regional/olxeu-atlas-web/static/js/advertising.js$domain=olx.pl
+	||olx.pl/static/olxpl/naspersclassifieds-regional/olxeu-atlas-web/static/js/newrelic.js$domain=olx.pl
+	||olx.pl/static/olxpl/naspersclassifieds-regional/olxeu-atlas-web/static/js/tracking/ninja.js$domain=olx.pl
+	||optimizely.com/*$domain=olx.pl
+	||tradedoubler.com/*$domain=olx.pl
+	||xiti.com/*$domain=olx.pl
+
 ! ****************************** OPINEO.PL ******************************
 ! ****************************** OTODOM.PL ******************************
 ! ****************************** OTOMOTO.PL ******************************
