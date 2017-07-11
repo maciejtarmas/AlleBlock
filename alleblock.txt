@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: AlleBlock - Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20170711c
+! Version: 20170711d
 !
 ! Homepage: https://alleblock.pl
 !
@@ -315,6 +315,7 @@
 	||optimizely.com/*$domain=olx.pl
 	||tradedoubler.com/*$domain=olx.pl
 	||xiti.com/*$domain=olx.pl
+	||myvisualiq.net/*$domain=olx.pl
 
 ! ****************************** OPINEO.PL ******************************
 
