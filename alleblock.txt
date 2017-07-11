@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: AlleBlock - Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20170711e
+! Version: 20170711f
 !
 ! Homepage: https://alleblock.pl
 !
@@ -296,6 +296,12 @@
 ! Interfejs mobilny
 
 	olx.pl##div.topinfo.bg-6.pding04em
+
+! Pasaz finansowy OLX
+
+	finanse.olx.pl##div.recommend
+	finanse.olx.pl##section.partners
+	finanse.olx.pl##section.sampleCalc
 
 ! Skrypty/Trackery/Zasoby
 
