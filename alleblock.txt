@@ -2,7 +2,7 @@
 
 ! Title: AlleBlock - Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20170712
+! Version: 20170712b
 !
 ! Homepage: https://alleblock.pl
 !
@@ -16,7 +16,7 @@
 
 ! ****************************** ALLEGRO.PL ******************************
 
-! Strona glowna
+! Strona główna
 
 	allegro.pl##div[data-box-name="Showcase main"]
 	allegro.pl##div[data-box-name="Showcase brand and marketing"]
@@ -108,7 +108,7 @@
 
 	allegro.pl##div.opbox-sheet.card > div[data-box-name="layout.container1"]
 
-! Lista przedmiotow
+! Lista przedmiotów
 
 	allegro.pl##div[data-box-name="offer_ads"]
 	allegro.pl##section[class*="_61c59e4"]
@@ -155,17 +155,18 @@
 	||assets.allegrostatic.pl/opbox-advertisement-box/*$domain=allegro.pl
 	||assets.allegrostatic.pl/opbox-advertisement/*$domain=allegro.pl
 	||assets.allegrostatic.pl/opbox-listing-seo/*$domain=allegro.pl
-	||assets.allegrostatic.pl/opbox-rich-text/*$domain=allegro.pl
 	||doubleclick.net/*$domain=allegro.pl
 	||facebook.net/*$domain=allegro.pl
 	||facebook.com/*$domain=allegro.pl
 	||newrelic.com/*$domain=allegro.pl
 	||nr-data.net/*$domain=allegro.pl
 	||youtube.com/*$domain=allegro.pl
+	||faq.allegro.pl/bundles/allegrohelp/js/cookie-monster.js$domain=allegro.pl
+	||google-analytics.com/*$domain=allegro.pl
 
 ! ****************************** CENEO.PL ******************************
 
-! Strona glowna
+! Strona główna
 
 	ceneo.pl##div#js_cookie-monster
 	ceneo.pl##div.showcase-view
@@ -190,7 +191,7 @@
 	ceneo.pl##div.custom-filter-box.js_custom-filter-trigger
 	ceneo.pl##div#category-description
 
-! Lista produktow
+! Lista produktów
 
 	ceneo.pl##section.manufacturer-zone.js_manufacturer-zone-selector-section
 	ceneo.pl##div.highlighted-offers.js_category-list-body
@@ -270,7 +271,7 @@
 
 ! ****************************** OLX.PL ******************************
 
-! Strona glowna
+! Strona główna
 
 	olx.pl##div#cookiesBar
 	olx.pl##section.mainpage-gallery.clr
@@ -286,7 +287,7 @@
 	olx.pl##div#geo-suggestions
 	olx.pl##div#categoryLinksHeader
 	
-! Strona przedmiotu
+! Strona ogłoszenia
 
 	olx.pl##div.addedbymobile
 	olx.pl##div#fb-root
@@ -295,6 +296,11 @@
 	olx.pl##a#priceBoxLink
 	olx.pl##div.otokredytbox.otokredytbox-vivus-ui.otokredytbox-vivus-ui--1
 	olx.pl##div.otokredytbox.otokredytbox-ing-primary
+
+! Dodawanie ogłoszenia
+
+	olx.pl##div.sendappsms-box.sendappsms-box--adding.brtope5
+	olx.pl##h1.c000.x-large.pding10.rel.fleft
 	
 ! Interfejs dotykowy
 
@@ -305,11 +311,18 @@
 
 	olx.pl##div.topinfo.bg-6.pding04em
 
-! Pasaz finansowy OLX
+! Pasaż finansowy OLX
 
 	finanse.olx.pl##div.recommend
 	finanse.olx.pl##section.partners
 	finanse.olx.pl##section.sampleCalc
+
+! Blog OLX
+
+	blog.olx.pl##div#cookieChoiceInfo
+	blog.olx.pl##div#navbar-iframe-container
+	blog.olx.pl##div.post-share-buttons.goog-inline-block
+	blog.olx.pl##div#Gadget1
 
 ! Skrypty/Trackery/Zasoby
 
@@ -336,6 +349,9 @@
 	||mxpnl.com/*$domain=olx.pl
 	||tracking.olx-st.com/*$domain=olx.pl
 	||ninja.onap.io/*$domain=olx.pl
+	||blog.olx.pl/js/cookiechoices.js*$domain=olx.pl
+	||googlesyndication.com/pagead/js/*$domain=olx.pl
+	||googleusercontent.com/*$domain=blog.olx.pl
 
 ! ****************************** OPINEO.PL ******************************
 
