@@ -2,7 +2,7 @@
 
 ! Title: AlleBlock - Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20170712c
+! Version: 20170712d
 !
 ! Homepage: https://alleblock.pl
 !
@@ -287,6 +287,7 @@
 	olx.pl##div#favoritesGalleryBox
 	olx.pl##div#geo-suggestions
 	olx.pl##div#categoryLinksHeader
+	olx.pl##div[class^="badge-fixlyCategory"]
 	
 ! Strona ogłoszenia
 
