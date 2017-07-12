@@ -2,7 +2,7 @@
 
 ! Title: AlleBlock - Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20170712b
+! Version: 20170712c
 !
 ! Homepage: https://alleblock.pl
 !
@@ -264,6 +264,7 @@
 	||msecnd.net/*$domain=ceneo.pl
 	||visualstudio.com/*$domain=ceneo.pl
 	||youtube.com/*$domain=ceneo.pl
+	||ceneo.pl/Scripts/dist/Shared/popup.js$domain=ceneo.pl
 
 ! ****************************** GUMTREE.PL ******************************
 
