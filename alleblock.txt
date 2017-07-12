@@ -1,11 +1,14 @@
 [Adblock Plus 2.0]
+
 ! Title: AlleBlock - Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20170711i
+! Version: 20170712
 !
 ! Homepage: https://alleblock.pl
 !
-! blablabla [malpa] alleblock [kropka] pl
+! Issues: https://github.com/maciejtarmas/AlleBlock
+!
+! Contact: blablabla [-a-t-] alleblock [-d-o-t-] pl
 !
 ! Expires: 1 days
 !
@@ -276,7 +279,7 @@
 	
 ! Strona kategorii/podkategorii
 
-	olx.pl##div#subSelect1485
+	olx.pl##div[id^="subSelect"]
 	olx.pl##div#categoryLinksSuggestions
 	olx.pl##div.badge-jobcategory.js-badge-jobcategory
 	olx.pl##div#favoritesGalleryBox
@@ -330,6 +333,9 @@
 	||myvisualiq.net/*$domain=olx.pl
 	||criteo.net/*$domain=olx.pl
 	||criteo.com/*$domain=olx.pl
+	||mxpnl.com/*$domain=olx.pl
+	||tracking.olx-st.com/*$domain=olx.pl
+	||ninja.onap.io/*$domain=olx.pl
 
 ! ****************************** OPINEO.PL ******************************
 
