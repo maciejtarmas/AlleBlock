@@ -2,7 +2,7 @@
 
 ! Title: AlleBlock - Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20170712d
+! Version: 20170713a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -190,6 +190,7 @@
 	ceneo.pl##aside.aside.js_top-manufacturers-section
 	ceneo.pl##div.custom-filter-box.js_custom-filter-trigger
 	ceneo.pl##div#category-description
+	ceneo.pl##div[style="position: fixed; bottom: 0px; z-index: 0; width: 100%; text-align: center; background-color: rgb(255, 255, 255);"]
 
 ! Lista produktów
 
@@ -243,6 +244,7 @@
 	||ceneo.pl/Scripts/dist/Desktop/favoriteProducts.js$domain=ceneo.pl
 	||ceneo.pl/Scripts/dist/Desktop/questionaires/trustedReviewsWithoutAgreement.js$domain=ceneo.pl
 	||ceneo.pl/Scripts/dist/Shared/articles/*$domain=ceneo.pl
+	||ceneo.pl/Scripts/dist/Shared/popup.js$domain=ceneo.pl
 	||ceneo.pl/Scripts/dist/shared/utils/blockerinfo.js$domain=ceneo.pl
 	||ceneo.pl/Scripts/dist/Shared/widgets/*$domain=ceneo.pl
 	||ceneo.pl/TrackPartnerVisit$domain=ceneo.pl
@@ -254,17 +256,17 @@
 	||google.com/pagead/*$domain=ceneo.pl
 	||google.pl/pagead/*$domain=ceneo.pl
 	||googleadservices.com/*$domain=ceneo.pl
+	||googlesyndycation.com/*$domain=ceneo.pl
 	||googletagmanager.com/*$domain=ceneo.pl
 	||googletagservices.com/*$domain=ceneo.pl
 	||image.ceneo.pl/data/article_picture/*$domain=ceneo.pl
+	||image.ceneo.pl/data/footer_widget/*$domain=ceneo.pl
 	||image.ceneo.pl/data/man_zones_logo_s/*$domain=ceneo.pl
 	||image.ceneo.pl/data/mobile_main_page_promo_box/*$domain=ceneo.pl
 	||image.ceneo.pl/data/showcase_picture/*$domain=ceneo.pl
-	||image.ceneo.pl/data/footer_widget/*$domain=ceneo.pl
 	||msecnd.net/*$domain=ceneo.pl
 	||visualstudio.com/*$domain=ceneo.pl
 	||youtube.com/*$domain=ceneo.pl
-	||ceneo.pl/Scripts/dist/Shared/popup.js$domain=ceneo.pl
 
 ! ****************************** GUMTREE.PL ******************************
 
