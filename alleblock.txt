@@ -2,7 +2,7 @@
 
 ! Title: AlleBlock - Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20170713a
+! Version: 20170717a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -101,12 +101,8 @@
 	allegro.pl##div[data-box-name="okazje_remont"]
 	allegro.pl##div[data-box-name="kartka-toys-by-age"]
 	allegro.pl##div[data-box-name="Zabawa na dworze z dzieckiem"]
-
-	! Jak sie cos bedzie wykrzaczac na stronie kategorii "Moda i uroda", to przyjrzec sie ponizszej regule
-	! 20170615 - no i popsulo wyszukiwarke
-	! 20170615 wieczorem - naprawiamy przez dodanie child selector w kategorii "Moda i uroda"; jest inny niż w wynikach wyszukiwania
-
 	allegro.pl##div.opbox-sheet.card > div[data-box-name="layout.container1"]
+	allegro.pl##div[data-box-name="szachy"]
 
 ! Lista przedmiotów
 
