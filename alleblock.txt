@@ -2,7 +2,7 @@
 
 ! Title: AlleBlock - Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20170717a
+! Version: 20170717b
 !
 ! Homepage: https://alleblock.pl
 !
@@ -128,11 +128,6 @@
 ! Inspiracje Allegro
 
 	inspiracje.allegro.pl##div#cookie-info-container
-
-! Przerwa techniczna
-
-	allegro.pl##div.line
-	allegro.pl##section#mobile-apps
 
 ! Skrypty/Trackery/Zasoby
 
