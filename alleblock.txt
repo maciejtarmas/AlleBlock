@@ -2,7 +2,7 @@
 
 ! Title: AlleBlock - Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20170717b
+! Version: 20170720a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -103,6 +103,15 @@
 	allegro.pl##div[data-box-name="Zabawa na dworze z dzieckiem"]
 	allegro.pl##div.opbox-sheet.card > div[data-box-name="layout.container1"]
 	allegro.pl##div[data-box-name="szachy"]
+	allegro.pl##div[data-box-name="besty"]
+	allegro.pl##div[data-box-name="karuzelka vip"]
+	allegro.pl##div[data-box-name="Kafle kategorie"]
+	allegro.pl##div[data-box-name="Okazje"]
+	allegro.pl##div[data-box-name="Promowane oferty"]
+	allegro.pl##div[data-box-name="sma"]
+	allegro.pl##div[data-box-name="Popularni autorzy"]
+	allegro.pl##div[data-box-name="kontener poradniki"]
+	allegro.pl##div[data-box-name="Magazyn Allegro"]
 
 ! Lista przedmiotów
 
