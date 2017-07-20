@@ -2,7 +2,7 @@
 
 ! Title: AlleBlock - Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20170720a
+! Version: 20170720b
 !
 ! Homepage: https://alleblock.pl
 !
@@ -112,6 +112,7 @@
 	allegro.pl##div[data-box-name="Popularni autorzy"]
 	allegro.pl##div[data-box-name="kontener poradniki"]
 	allegro.pl##div[data-box-name="Magazyn Allegro"]
+	allegro.pl##div[data-box-name="kategorie"]
 
 ! Lista przedmiotów
 
