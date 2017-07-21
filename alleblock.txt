@@ -112,7 +112,8 @@
 	allegro.pl##div[data-box-name="Popularni autorzy"]
 	allegro.pl##div[data-box-name="kontener poradniki"]
 	allegro.pl##div[data-box-name="Magazyn Allegro"]
-	allegro.pl##div[data-box-name="kategorie"]
+	allegro.pl##div[data-box-name="kategorie 2"]
+	allegro.pl##div[data-box-name="gaminig"]
 
 ! Lista przedmiotów
 
