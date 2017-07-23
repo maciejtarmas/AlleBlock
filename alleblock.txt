@@ -2,7 +2,7 @@
 
 ! Title: AlleBlock - Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20170720b
+! Version: 20170723a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -354,10 +354,15 @@
 	||criteo.com/*$domain=olx.pl
 	||mxpnl.com/*$domain=olx.pl
 	||tracking.olx-st.com/*$domain=olx.pl
-	||ninja.onap.io/*$domain=olx.pl
 	||blog.olx.pl/js/cookiechoices.js*$domain=olx.pl
 	||googlesyndication.com/pagead/js/*$domain=olx.pl
 	||googleusercontent.com/*$domain=blog.olx.pl
+	
+	! Obejście blokowania skryptów przez EasyList
+	@@||olx.pl/i2/ajax/ad/$xmlhttprequest
+	
+	! Obejście odblokowywania skryptu przez EasyPrivacy
+	||ninja.onap.io/ninja-cee.js$domain=olx.pl,important
 
 ! ****************************** OPINEO.PL ******************************
 
