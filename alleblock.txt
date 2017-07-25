@@ -2,7 +2,7 @@
 
 ! Title: AlleBlock - Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20170723a
+! Version: 20170725a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -199,7 +199,6 @@
 	ceneo.pl##section.manufacturer-zone.js_manufacturer-zone-selector-section
 	ceneo.pl##div.highlighted-offers.js_category-list-body
 	ceneo.pl##aside#nph
-	ceneo.pl##aside.promoted-products.vertical
 	ceneo.pl##div.expert-articles.js_expert-articles-box
 	ceneo.pl##div.product-list-reviews.js_product-list-reviews-box
 	ceneo.pl##div.billboard
@@ -279,8 +278,6 @@
 ! Strona główna
 
 	olx.pl##div#cookiesBar
-	olx.pl##section.mainpage-gallery.clr
-	olx.pl##section#mainpageAds
 	olx.pl##div.wrapper.small.clr.brbott-12.rel
 	
 ! Strona kategorii/podkategorii
@@ -361,7 +358,7 @@
 	! Obejście blokowania skryptów przez EasyList
 	@@||olx.pl/i2/ajax/ad/$xmlhttprequest
 	
-	! Obejście odblokowywania skryptu przez EasyPrivacy
+	! Obejście odblokowywania skryptu przez EasyPrivacy (tylko dla uBlock)
 	||ninja.onap.io/ninja-cee.js$domain=olx.pl,important
 
 ! ****************************** OPINEO.PL ******************************
