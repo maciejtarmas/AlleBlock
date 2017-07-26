@@ -2,7 +2,7 @@
 
 ! Title: AlleBlock - Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20170725a
+! Version: 20170726a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -289,6 +289,7 @@
 	olx.pl##div#geo-suggestions
 	olx.pl##div#categoryLinksHeader
 	olx.pl##div[class^="badge-fixlyCategory"]
+	olx.pl##div#favouritesBar
 	
 ! Strona ogłoszenia
 
@@ -342,7 +343,6 @@
 	||olx.pl/static/olxpl/naspersclassifieds-regional/olxeu-atlas-web/static/js/advertising.js$domain=olx.pl
 	||olx.pl/static/olxpl/naspersclassifieds-regional/olxeu-atlas-web/static/js/newrelic.js$domain=olx.pl
 	||olx.pl/static/olxpl/naspersclassifieds-regional/olxeu-atlas-web/static/js/px.js$domain=olx.pl
-	||olx.pl/static/olxpl/naspersclassifieds-regional/olxeu-atlas-web/static/js/tracking/ninja.js$domain=olx.pl
 	||optimizely.com/*$domain=olx.pl
 	||tradedoubler.com/*$domain=olx.pl
 	||xiti.com/*$domain=olx.pl
@@ -358,8 +358,9 @@
 	! Obejście blokowania skryptów przez EasyList
 	@@||olx.pl/i2/ajax/ad/$xmlhttprequest
 	
-	! Obejście odblokowywania skryptu przez EasyPrivacy (tylko dla uBlock)
-	||ninja.onap.io/ninja-cee.js$domain=olx.pl,important
+	! Obejście blokowaniu skryptu z /js/tracking / przez EasyPrivacy
+	@@||olx.pl/static/olxpl/naspersclassifieds-regional/olxeu-atlas-web/static/js/tracking/ninja.js$domain=olx.pl
+	@@||olx.pl/static/olxpl/naspersclassifieds-regional/olxeu-atlas-web/static/js/tracking/ninja-cee.js$domain=olx.pl
 
 ! ****************************** OPINEO.PL ******************************
 
