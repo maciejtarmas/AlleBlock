@@ -2,7 +2,7 @@
 
 ! Title: AlleBlock - Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20170726a
+! Version: 20170726b
 !
 ! Homepage: https://alleblock.pl
 !
@@ -216,6 +216,7 @@
 ! Moje Ceneo
 
 	ceneo.pl##div.favorites-section.js_clipboard-carousel
+	ceneo.pl##li.mobileQR
 
 ! Mobilne Ceneo
 
@@ -369,3 +370,5 @@
 ! ****************************** OTOMOTO.PL ******************************
 
 ! ****************************** SKAPIEC.PL ******************************
+
+! ****************************** SPRZEDAJEMY.PL ******************************
