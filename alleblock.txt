@@ -2,7 +2,7 @@
 
 ! Title: AlleBlock - Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20170726b
+! Version: 20170731a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -114,6 +114,11 @@
 	allegro.pl##div[data-box-name="Magazyn Allegro"]
 	allegro.pl##div[data-box-name="kategorie 2"]
 	allegro.pl##div[data-box-name="gaminig"]
+	allegro.pl##div[data-box-name="salon"]
+	allegro.pl##div[data-box-name="sypialnia"]
+	allegro.pl##div[data-box-name="wyposazenie"]
+	allegro.pl##div[data-box-name="Karuzela Okazji II flight"]
+	allegro.pl##div[data-box-name="poradniki_remont2"]
 
 ! Lista przedmiotów
 
@@ -372,3 +377,50 @@
 ! ****************************** SKAPIEC.PL ******************************
 
 ! ****************************** SPRZEDAJEMY.PL ******************************
+
+! Strona główna
+
+	sprzedajemy.pl##div[id*="bbb.creative"]
+	sprzedajemy.pl##div.hpFooterBox.clearfix
+	sprzedajemy.pl##a#openUserSuggestionWindowBtn
+	sprzedajemy.pl##div.likeBtnBox.over_button
+	sprzedajemy.pl##strong.ilabel-buy-free-no-reg-light
+
+! Lista ofert
+	
+	sprzedajemy.pl##div.AdsAds_
+	sprzedajemy.pl##div#cntOtherOffersBox
+	sprzedajemy.pl##div#cntCategoryTxt
+	sprzedajemy.pl##li[id*="gad-"]
+
+! Strona oferty
+	
+	sprzedajemy.pl##div.offer_data_footer_right
+	sprzedajemy.pl##td[id*="gad-"]
+	sprzedajemy.pl##div.offerDetailsRightBlueBox
+	sprzedajemy.pl##div.newest_offers
+	sprzedajemy.pl##p.remember_about_sprzedajemy
+
+! Konto użytkownika
+	
+	sprzedajemy.pl##div#toolTipAccountBalanceInfoHelper
+	
+! Skrypty/Trackery/Zasoby
+
+	||gemius.pl/*$domain=sprzedajemy.pl
+	||adocean.pl/*$domain=sprzedajemy.pl
+	||doubleclick.net/*$domain=sprzedajemy.pl
+	||bbelements.com/*$domain=sprzedajemy.pl
+	||onesignal.com/*$domain=sprzedajemy.pl
+	||nsaudience.pl/*$domain=sprzedajemy.pl
+	||googleadservices.com/*$domain=sprzedajemy.pl
+	||googletagmanager.com/*$domain=sprzedajemy.pl
+	||hotjar.com/*$domain=sprzedajemy.pl
+	||facebook.com/*$domain=sprzedajemy.pl
+	||google.com/*$domain=sprzedajemy.pl
+	||googlesyndication.com/*$domain=sprzedajemy.pl
+	||onaudience.com/*$domain=sprzedajemy.pl
+	||adform.net/*$domain=sprzedajemy.pl
+	||pinterest.com/*$domain=sprzedajemy.pl
+	||twitter.com/*$domain=sprzedajemy.pl
+	||google-analytics.com/*$domain=sprzedajemy.pl
