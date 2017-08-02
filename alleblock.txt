@@ -2,7 +2,7 @@
 
 ! Title: AlleBlock - Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20170731a
+! Version: 20170802a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -119,6 +119,10 @@
 	allegro.pl##div[data-box-name="wyposazenie"]
 	allegro.pl##div[data-box-name="Karuzela Okazji II flight"]
 	allegro.pl##div[data-box-name="poradniki_remont2"]
+	allegro.pl##div[data-box-name="BTS"]
+	allegro.pl##div[data-box-name="header"]
+	allegro.pl##div[data-box-name="kafelki_BTS_all"]
+	allegro.pl##div[data-box-name="fifa + cod"]
 
 ! Lista przedmiotów
 
