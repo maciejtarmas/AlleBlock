@@ -2,7 +2,7 @@
 
 ! Title: AlleBlock - Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20170817a
+! Version: 20170823a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -124,6 +124,7 @@
 	allegro.pl##div[data-box-name="kafelki_BTS_all"]
 	allegro.pl##div[data-box-name="fifa + cod"]
 	allegro.pl##div[data-box-name="bts kafle"]
+	allegro.pl##div[data-box-name="hide_Strefa Marek allegro"]
 
 ! Lista przedmiotów
 
