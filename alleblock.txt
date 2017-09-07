@@ -2,7 +2,7 @@
 
 ! Title: AlleBlock - Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20170831a
+! Version: 20170907a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -42,6 +42,9 @@
 
 ! Strona kategorii
 
+	allegro.pl##div[data-box-name="polecane.podkategorie"]
+	allegro.pl##div[data-box-name="Polecane podkategorie"]
+	allegro.pl##div[data-box-name="polecane podkategorie"]
 	allegro.pl##div[data-box-name="VIP OFFERS"]
 	allegro.pl##div[data-box-name="okazje dnia"]
 	allegro.pl##div[data-box-name="logotypy sma"]
@@ -129,6 +132,9 @@
 	allegro.pl##div[data-box-name="fifa + cod"]
 	allegro.pl##div[data-box-name="bts kafle"]
 	allegro.pl##div[data-box-name="hide_Strefa Marek allegro"]
+	allegro.pl##div[data-box-name="oferty z osa"]
+	allegro.pl##div[data-box-name="belka conteiner"]
+	allegro.pl##div[data-box-name="kategorie"]
 
 ! Lista przedmiotów
 
