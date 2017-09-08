@@ -2,7 +2,7 @@
 
 ! Title: AlleBlock - Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20170907a
+! Version: 20170908a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -171,6 +171,7 @@
 	||emiter.allegrostatic.pl/*$domain=allegro.pl
 	||gemius.pl/*$domain=allegro.pl
 	||googletagmanager.com/*$domain=allegro.pl
+	||googletagservices.com/*$domain=allegro.pl
 	||ngacm.com/*$domain=allegro.pl
 	||ngastatic.com/*$domain=allegro.pl
 	||usabilla.com/*$domain=allegro.pl
@@ -228,6 +229,7 @@
 
 	ceneo.pl##aside.promoted-products
 	ceneo.pl##section.popular-reviews.js_product-reviews-sample
+	ceneo.pl##div#user-activity
 
 ! Strona sprzedawcy
 
