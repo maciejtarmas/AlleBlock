@@ -2,7 +2,7 @@
 
 ! Title: AlleBlock - Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20170908a
+! Version: 20170918a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -135,6 +135,7 @@
 	allegro.pl##div[data-box-name="oferty z osa"]
 	allegro.pl##div[data-box-name="belka conteiner"]
 	allegro.pl##div[data-box-name="kategorie"]
+	allegro.pl##div[data-box-name="belka_"]
 
 ! Lista przedmiotów
 
