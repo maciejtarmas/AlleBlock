@@ -2,7 +2,7 @@
 
 ! Title: AlleBlock - Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20170920b
+! Version: 20170920c
 !
 ! Homepage: https://alleblock.pl
 !
@@ -327,25 +327,31 @@
 
 ! Skrypty/Trackery/Zasoby
 
-	||googlesyndycation.com/*$domain=ebay.pl
-	||svcs.ebay.com/delstats/imp/*$domain=ebay.pl
-	||doubleclick.net/*$domain=ebay.pl
-	||googletagservices.com/*$domain=ebay.pl
-	||google.com/adsense/*$domain=ebay.pl
-	||srv.pl.ebayrtm.com/*$domain=ebay.pl
-	||secureinclude.ebaystatic.com/js/v/us/pulsar.js$domain=ebay.pl
-	||rover.ebay.pl/roverimp/*$domain=ebay.pl
-	||ebaystatic.com/aw/pl/*$domain=ebay.pl
-	||ebayimg.com/images/g/*$domain=ebay.pl
-	||cdn.roma.ebay.com/assets/*$domain=ebay.pl
-	||pulsar.ebay.pl/*$domain=ebay.pl
-	||community.ebay.pl/beacon/*$domain=ebay.pl
-	||ebay.com/scl/js/ScandalLoader.js$domain=ebay.pl
-	||reco.ebay.com/rec/*$domain=ebay.pl
-	||pages.ebay.pl/rtm_default/*$domain=ebay.pl
-	||ebayrtm.com/rtm$domain=ebay.pl
-	||bluekai.com/*$domain=ebay.pl
+	||247-inc.net/*$domain=ebay.pl
 	||ads.ebay.com/*$domain=ebay.pl
+	||bluekai.com/*$domain=ebay.pl
+	||cdn.roma.ebay.com/assets/*$domain=ebay.pl
+	||community.ebay.pl/beacon/*$domain=ebay.pl
+	||doubleclick.net/*$domain=ebay.pl
+	||ebay.com/scl/js/ScandalLoader.js$domain=ebay.pl
+	||ebayimg.com/images/g/*$domain=ebay.pl
+	||ebayrtm.com/rtm$domain=ebay.pl
+	||ebaystatic.com/aw/pl/*$domain=ebay.pl
+	||gha.ebay.pl/nproxy/notification/v1/getNotification$domain=ebay.pl
+	||google.com/adsense/*$domain=ebay.pl
+	||googlesyndycation.com/*$domain=ebay.pl
+	||googletagservices.com/*$domain=ebay.pl
+	||ir.ebaystatic.com/include/js/v/us/tracking_NodeheaderJS.js$domain=ebay.pl
+	||pages.ebay.pl/rtm_default/*$domain=ebay.pl
+	||pulsar.ebay.pl/*$domain=ebay.pl
+	||reco.ebay.com/rec/*$domain=ebay.pl
+	||rover.ebay.pl/idmap/*$domain=ebay.pl
+	||rover.ebay.pl/roverclk/*$domain=ebay.pl
+	||rover.ebay.pl/roverimp/*$domain=ebay.pl
+	||secureinclude.ebaystatic.com/js/v/us/pulsar.js$domain=ebay.pl
+	||secureir.ebaystatic.com/cr/v/c1/OCS/webtagging/2.0/webtagging.js$domain=ebay.pl
+	||srv.pl.ebayrtm.com/*$domain=ebay.pl
+	||svcs.ebay.com/delstats/imp/*$domain=ebay.pl
 	@@ebayimg.com/images/g/*$domain=m.ebay.pl
 
 ! ****************************** GUMTREE.PL ******************************
