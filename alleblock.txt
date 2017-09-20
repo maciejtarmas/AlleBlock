@@ -2,7 +2,7 @@
 
 ! Title: AlleBlock - Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20170918a
+! Version: 20170920a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -293,6 +293,58 @@
 	||msecnd.net/*$domain=ceneo.pl
 	||visualstudio.com/*$domain=ceneo.pl
 	||youtube.com/*$domain=ceneo.pl
+
+! ****************************** EBAY.PL ******************************
+
+! Strona główna
+	
+	ebay.pl##div.gh-banner
+	ebay.pl##div#rtm_list1
+	ebay.pl##div#rtm_list2
+	ebay.pl##div#rtm_list3
+	ebay.pl##div#rtm_list4
+	ebay.pl##div#popular_destinations_list1
+	ebay.pl##div#popular_destinations_list2
+	ebay.pl##div#popular_destinations_list3
+	ebay.pl##div#popular_destinations_list4
+	ebay.pl##div#popular_destinations_list5
+	ebay.pl##div#collection_list1
+	ebay.pl##div[id*="s0-rtmImages"]
+
+! Strona produktu
+	
+	ebay.pl##a.scShareIcon.scShareExternal
+
+! Wystawianie przedmiotu
+
+	ebay.pl##[id*="rtm_div_"]
+
+! Konto użytkownika
+
+	ebay.pl##section#adsContainer
+	ebay.pl##div.dvMgn
+	ebay.pl##div[title="ADVERTISEMENT"]
+
+! Skrypty/Trackery/Zasoby
+
+	||googlesyndycation.com/*$domain=ebay.pl
+	||svcs.ebay.com/delstats/imp/*$domain=ebay.pl
+	||doubleclick.net/*$domain=ebay.pl
+	||googletagservices.com/*$domain=ebay.pl
+	||google.com/adsense/*$domain=ebay.pl
+	||srv.pl.ebayrtm.com/*$domain=ebay.pl
+	||secureinclude.ebaystatic.com/js/v/us/pulsar.js$domain=ebay.pl
+	||rover.ebay.pl/roverimp/*$domain=ebay.pl
+	||ebaystatic.com/aw/pl/*$domain=ebay.pl
+	||ebayimg.com/images/g/*$domain=ebay.pl
+	||cdn.roma.ebay.com/assets/*$domain=ebay.pl
+	||pulsar.ebay.pl/*$domain=ebay.pl
+	||community.ebay.pl/beacon/*$domain=ebay.pl
+	||ebay.com/scl/js/ScandalLoader.js$domain=ebay.pl
+	||reco.ebay.com/rec/*$domain=ebay.pl
+	||pages.ebay.pl/rtm_default/*$domain=ebay.pl
+	||ebayrtm.com/rtm$domain=ebay.pl
+	@@ebayimg.com/images/g/*$domain=m.ebay.pl
 
 ! ****************************** GUMTREE.PL ******************************
 
