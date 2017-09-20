@@ -2,7 +2,7 @@
 
 ! Title: AlleBlock - Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20170920a
+! Version: 20170920b
 !
 ! Homepage: https://alleblock.pl
 !
@@ -344,6 +344,8 @@
 	||reco.ebay.com/rec/*$domain=ebay.pl
 	||pages.ebay.pl/rtm_default/*$domain=ebay.pl
 	||ebayrtm.com/rtm$domain=ebay.pl
+	||bluekai.com/*$domain=ebay.pl
+	||ads.ebay.com/*$domain=ebay.pl
 	@@ebayimg.com/images/g/*$domain=m.ebay.pl
 
 ! ****************************** GUMTREE.PL ******************************
