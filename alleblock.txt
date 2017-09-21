@@ -2,7 +2,7 @@
 
 ! Title: AlleBlock - Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20170920c
+! Version: 20170921a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -265,6 +265,7 @@
 	||analytics.ceneo.pl/*$domain=ceneo.pl
 	||betweendigital.com/*$domain=ceneo.pl
 	||casalemedia.com/*$domain=ceneo.pl
+	||ceneo.pl/GetProductActivity$domain=ceneo.pl
 	||ceneo.pl/Home/RecommendationsForMainPage$domain=ceneo.pl
 	||ceneo.pl/recent-activities$domain=ceneo.pl
 	||ceneo.pl/Scripts/dist/Desktop/favoriteProducts.js$domain=ceneo.pl
