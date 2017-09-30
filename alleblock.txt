@@ -2,7 +2,7 @@
 
 ! Title: AlleBlock - Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20170921a
+! Version: 20170930a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -188,6 +188,43 @@
 	||youtube.com/*$domain=allegro.pl
 	||faq.allegro.pl/bundles/allegrohelp/js/cookie-monster.js$domain=allegro.pl
 	||google-analytics.com/*$domain=allegro.pl
+
+! ****************************** NOWE ALLEGRO.PL ******************************
+
+! Strona główna
+
+	allegro.pl##div[data-box-name="cookie policy"]
+	allegro.pl##div[data-box-name="allegro.advertisement"]
+	allegro.pl##div[data-box-name="Showcase main"]
+	allegro.pl##div[data-box-name="user"]
+	allegro.pl##div[data-box-name="USP container"]
+	allegro.pl##div[data-box-name="structure-1"]
+	allegro.pl##div[data-box-name="structure-2"]
+	allegro.pl##div[data-box-name="structure-3"]
+	allegro.pl##div[data-box-name="structure-4"]
+	allegro.pl##div[data-box-name="f-links"] > div.opbox-sheet-wrapper > span.separator-top
+	allegro.pl##div[data-box-name="f-social"]
+	allegro.pl##div[data-box-name="DFP Parallax"]
+	allegro.pl##div.opbox-metrum-header__advert > div
+
+! Skrypty/Trackery/Zasoby
+
+	||asa.allegro.pl/*$domain=allegro.pl
+	||asa.allegrostatic.com/*$domain=allegro.pl
+	||doubleclick.net/*$domain=allegro.pl
+	||gemius.pl/*$domain=allegro.pl
+	||google-analytics.com/*$domain=allegro.pl
+	||googlesyndication.com/*$domain=allegro.pl
+	||googletagmanager.com/*$domain=allegro.pl
+	||googletagservices.com/*$domain=allegro.pl
+	||ngacm.com/*$domain=allegro.pl
+	||ngastatic.com/*$domain=allegro.pl
+	||usabilla.com/*$domain=allegro.pl
+	
+	||assets.allegrostatic.pl/opbox-advertisement/*$domain=allegro.pl
+	||assets.allegrostatic.pl/opbox-advertisement-box/*$domain=allegro.pl
+	||assets.allegrostatic.pl/opbox-unique-selling-proposition/*$domain=allegro.pl
+	||assets.allegrostatic.pl/opbox-social-buttons/*$domain=allegro.pl
 
 ! ****************************** CENEO.PL ******************************
 
