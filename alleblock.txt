@@ -2,7 +2,7 @@
 
 ! Title: AlleBlock - Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20170930a
+! Version: 20171001a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -423,6 +423,7 @@
 	olx.pl##a#priceBoxLink
 	olx.pl##div.otokredytbox.otokredytbox-vivus-ui.otokredytbox-vivus-ui--1
 	olx.pl##div.otokredytbox.otokredytbox-ing-primary
+	olx.pl##td[colspan="2"] > form
 
 ! Dodawanie ogłoszenia
 
