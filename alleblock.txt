@@ -2,7 +2,7 @@
 
 ! Title: AlleBlock - Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20171019a
+! Version: 20171021a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -209,6 +209,10 @@
 	allegro.pl##div[data-box-name="DFP Parallax"]
 	allegro.pl##div.opbox-metrum-header__advert > div
 
+! Produkty z reklamy TV
+
+	allegro.pl##div[data-box-name="szol.container"]
+
 ! Skrypty/Trackery/Zasoby
 
 	||asa.allegro.pl/*$domain=allegro.pl
@@ -227,6 +231,7 @@
 	||assets.allegrostatic.pl/opbox-advertisement-box/*$domain=allegro.pl
 	||assets.allegrostatic.pl/opbox-unique-selling-proposition/*$domain=allegro.pl
 	||assets.allegrostatic.pl/opbox-social-buttons/*$domain=allegro.pl
+	||assets.allegrostatic.pl/opbox/allegro.pl/homepage/Main%20page%20-%20new_SG_categories%20-%20images/*$image,domain=allegro.pl
 
 ! ****************************** CENEO.PL ******************************
 
