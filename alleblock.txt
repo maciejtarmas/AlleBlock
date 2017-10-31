@@ -2,7 +2,7 @@
 
 ! Title: AlleBlock - Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20171030a
+! Version: 20171031a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -154,6 +154,10 @@
 
 	allegro.pl##div.modal.info-modal.modal-carousel.show
 	allegro.pl##div[offers="offersForReco"]
+
+! Konto użytkownika
+	
+	allegro.pl##coins-banner
 
 ! Archiwum Allegro
 
