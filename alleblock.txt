@@ -1,6 +1,8 @@
 [Adblock Plus 2.0]
 
-! Title: AlleBlock - Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
+! Title: AlleBlock
+!
+! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
 ! Version: 20171031a
 !
