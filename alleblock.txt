@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20171109a
+! Version: 20171112a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -423,6 +423,10 @@
 
 	olx.pl##div#cookiesBar
 	olx.pl##div.wrapper.small.clr.brbott-12.rel
+
+! Strona logowania
+	
+	olx.pl##div.login-page__video.js-login-video-link
 	
 ! Strona kategorii/podkategorii
 
