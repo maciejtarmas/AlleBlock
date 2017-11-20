@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20171114a
+! Version: 20171120a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -41,7 +41,8 @@
 	allegro.pl##div[data-box-name="coins"]
 	allegro.pl##div[data-box-name="USP container"]
 	allegro.pl##div[data-box-name="installments"]
-
+	allegro.pl##div[data-box-name="allegro.userConsentsAnnouncements"]
+	
 ! Strona kategorii
 
 	allegro.pl##div[data-box-name="polecane.podkategorie"]
