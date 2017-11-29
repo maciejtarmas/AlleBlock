@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20171120a
+! Version: 20171129a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -145,6 +145,7 @@
 	allegro.pl##div[data-box-name="Promo_offers"]
 	allegro.pl##div[data-box-name="Podkategorie_links"]
 	allegro.pl##div[data-box-name="lay marki tygodnia"]
+	allegro.pl##div[data-box-name="Struktury"]
 
 ! Lista przedmiotów
 
