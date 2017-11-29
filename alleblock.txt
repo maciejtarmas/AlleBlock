@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20171129a
+! Version: 20171129b
 !
 ! Homepage: https://alleblock.pl
 !
@@ -233,6 +233,10 @@
 ! Produkty z reklamy TV
 
 	allegro.pl##div[data-box-name="szol.container"]
+
+! Potwierdzenie płatności
+
+	allegro.pl##section#complementary-items-section
 
 ! Skrypty/Trackery/Zasoby
 
