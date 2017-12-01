@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20171129b
+! Version: 20171201b
 !
 ! Homepage: https://alleblock.pl
 !
@@ -229,6 +229,10 @@
 	allegro.pl##div[data-box-name="f-links-column4"]
 	allegro.pl##div[data-box-name="f-links-column5"]
 	allegro.pl##div[data-box-name="f-links-column6"]
+	allegro.pl##div[data-box-name="showcase.xmass.container"]
+	allegro.pl##div[data-box-name="title wrapper"]
+	allegro.pl##div[data-box-name="content.xmass"]
+	allegro.pl##div[data-box-name="content.xmass2"]
 
 ! Produkty z reklamy TV
 
