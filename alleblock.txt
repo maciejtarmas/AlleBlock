@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20171201b
+! Version: 20171207c
 !
 ! Homepage: https://alleblock.pl
 !
@@ -146,6 +146,12 @@
 	allegro.pl##div[data-box-name="Podkategorie_links"]
 	allegro.pl##div[data-box-name="lay marki tygodnia"]
 	allegro.pl##div[data-box-name="Struktury"]
+	allegro.pl##div[data-box-name="layout belka visa"]
+	allegro.pl##div[data-box-name="visa monety"]
+	allegro.pl##div[data-box-name="monety"]
+	allegro.pl##div[data-box-name="belka.visa"]
+	allegro.pl##div[data-box-name="Visa i monety"]
+	allegro.pl##div[data-box-name="VISA_banner"]
 
 ! Lista przedmiotów
 
