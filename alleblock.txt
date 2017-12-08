@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20171207c
+! Version: 20171208b
 !
 ! Homepage: https://alleblock.pl
 !
@@ -168,6 +168,9 @@
 	allegro.pl##div.carousel-container.-theme.advertising.overflow.init
 	allegro.pl##div.carousel-container.-theme.recommended.overflow.init
 	allegro.pl##div[id*="modal-content-precart"]
+	allegro.pl##div.si-birthday-banner
+	allegro.pl##section.active-promo-badge-representative-example.active-promo-badge-representative-example-vela
+	allegro.pl##button#open-instalment
 
 ! Koszyk
 
