@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20180206a
+! Version: 20180220a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -566,6 +566,7 @@
 	sprzedajemy.pl##a#openUserSuggestionWindowBtn
 	sprzedajemy.pl##div.likeBtnBox.over_button
 	sprzedajemy.pl##strong.ilabel-buy-free-no-reg-light
+	sprzedajemy.pl##div.land15mln
 
 ! Lista ofert
 	
