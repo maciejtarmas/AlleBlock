@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20180226a
+! Version: 20180304a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -257,6 +257,7 @@
 	allegro.pl##div[data-box-name="durex.section.wrapper"]
 	allegro.pl##div[data-box-name="Nowe USP"]
 	allegro.pl##div[data-box-name="militaria.26.02.2018.section.wrapper"]
+	allegro.pl##div[data-box-name="oralB.brandedshop.4.03.2018.section.wrapper"]
 
 ! Produkty z reklamy TV
 
