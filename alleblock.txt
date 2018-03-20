@@ -4,7 +4,11 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
+<<<<<<< HEAD
 ! Version: 20180320a
+=======
+! Version: 20180318a
+>>>>>>> 8410aeead0547c0cc4b865e7c1127297bf40f21e
 !
 ! Homepage: https://alleblock.pl
 !
@@ -266,8 +270,11 @@
 	allegro.pl##div[data-box-name="philips.brandedshop.14.03.2018.section.wrapper"]
 	allegro.pl##div[data-box-name="Taby_darmowej_dostawy"]
 	allegro.pl##div[data-box-name="Ochnik.brandedshop.18.03.2018.section.wrapper"]
+<<<<<<< HEAD
 	allegro.pl##div[data-box-name="RB.brandedshop.19.03.2018.section.wrapper"]
 	allegro.pl##div[data-box-name="Middle Page Banner_container"]
+=======
+>>>>>>> 8410aeead0547c0cc4b865e7c1127297bf40f21e
 
 ! Produkty z reklamy TV
 
