@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20180328a
+! Version: 20180406a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -270,6 +270,7 @@
 	allegro.pl##div[data-box-name="f-expander"]
 	allegro.pl##div[data-box-name="Czyszczenie magazynu (19.03)"]
 	allegro.pl##div[data-box-name="Uniroyal.brandedshop.28.03.2018.section.wrapper"]
+	allegro.pl##div[data-box-name="Taby_darmowej_dostawy_moda"]
 
 ! Produkty z reklamy TV
 
