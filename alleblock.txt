@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20180411a
+! Version: 20180412a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -275,6 +275,7 @@
 	allegro.pl##div[data-box-name="Taby_darmowej_dostawy_ogród"]
 	allegro.pl##div[data-box-name="Taby_OUTLET"]
 	allegro.pl##div[data-box-name$=".section.wrapper"]
+	allegro.pl##div[data-box-name="Everything up to 10"]
 
 ! Produkty z reklamy TV
 
