@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20180501a
+! Version: 20180507a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -266,6 +266,8 @@
 	allegro.pl##div[data-box-name="DD_Moda"]
 	allegro.pl##div[data-box-name="DD_Moda_kontener_belek"]
 	allegro.pl##div[data-box-name="recently-visited-offers__card"]
+	allegro.pl##div[data-box-name="Gardening"]
+	allegro.pl##div[data-box-name="DzienMatki"]
 	
 ! Produkty z reklamy TV
 
