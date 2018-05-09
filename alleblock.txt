@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20180507b
+! Version: 20180509a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -484,11 +484,10 @@
 
 	olx.pl##div[id^="subSelect"]
 	olx.pl##div#categoryLinksSuggestions
-	olx.pl##div.badge-jobcategory.js-badge-jobcategory
 	olx.pl##div#favoritesGalleryBox
 	olx.pl##div#geo-suggestions
 	olx.pl##div#categoryLinksHeader
-	olx.pl##div[class^="badge-fixlyCategory"]
+	olx.pl##div[class^="badge-"]
 	olx.pl##div#favouritesBar
 	
 ! Strona ogłoszenia
