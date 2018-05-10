@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20180509a
+! Version: 20180510b
 !
 ! Homepage: https://alleblock.pl
 !
@@ -300,6 +300,8 @@
 	||assets.allegrostatic.pl/opbox-advertisement-box/*$domain=allegro.pl
 	||assets.allegrostatic.pl/opbox-unique-selling-proposition/*$domain=allegro.pl
 	||assets.allegrostatic.pl/opbox-social-buttons/*$domain=allegro.pl
+	||assets.allegrostatic.com/display-pl/*$domain=allegro.pl
+	||assets.allegrostatic.com/opbox/allegro.pl/homepage/Main%20Page/*$image,domain=allegro.pl
 
 ! ****************************** CENEO.PL ******************************
 
