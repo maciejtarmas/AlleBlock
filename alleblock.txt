@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20180514b
+! Version: 20180516a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -269,6 +269,7 @@
 	allegro.pl##div[data-box-name="Gardening"]
 	allegro.pl##div[data-box-name="DzienMatki"]
 	allegro.pl##div[data-box-name="BLIK"]
+	allegro.pl##div[data-box-name="DzienDziecka"]
 
 ! Wyniki wyszukiwania
 	
