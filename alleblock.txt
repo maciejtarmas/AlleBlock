@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20180523a
+! Version: 20180525b
 !
 ! Homepage: https://alleblock.pl
 !
@@ -272,6 +272,7 @@
 	allegro.pl##div[data-box-name="DzienDziecka"]
 	allegro.pl##div[data-box-name="Miska"]
 	allegro.pl##div[data-box-name="8939-2018.brandedshop.JurassicWorld.23-05-2018.wrapper"]
+	allegro.pl##div[data-box-name="Licytacje"]
 
 ! Wyniki wyszukiwania
 	
