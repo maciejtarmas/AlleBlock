@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20180525b
+! Version: 20180526a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -278,6 +278,7 @@
 	
 	allegro.pl##div[data-box-name="podobne wyszukiwania kontener"]
 	allegro.pl##div[data-box-name="seo location links box"]
+	allegro.pl##div[data-box-name="seo location links container"]
 	
 ! Produkty z reklamy TV
 
