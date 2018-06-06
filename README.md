@@ -1,6 +1,10 @@
 # AlleBlock
 
-https://alleblock.pl/
+([Kliknij aby subskrybować][AlleBlock Subscribe])
+
+[AlleBlock Subscribe]: https://subscribe.adblockplus.org/?location=https://alleblock.pl/alleblock/alleblock.txt&title=AlleBlock
+
+Strona projektu https://alleblock.pl
 
 AlleBlock to zestaw reguł do popularnych wtyczek blokujących reklamy w przeglądarkach, takich jak Adblock Plus, uBlock Origin i innych, obsługujących składnię Adblock.
 
