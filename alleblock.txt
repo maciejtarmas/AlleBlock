@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20180609a
+! Version: 20180611a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -276,6 +276,7 @@
 	allegro.pl##div[data-box-name="allegro.rodoConsentModal"]
 	allegro.pl##div[data-box-name="FIFA"]
 	allegro.pl##div[data-box-name="Zabawne prezenty"]
+	allegro.pl##div[data-box-name="WYPRZEDAZ"]
 
 ! Strona logowania
 	allegro.pl##div[ng-show="showNewLoginPageNotification"]
