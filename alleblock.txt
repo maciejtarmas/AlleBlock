@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20180624a
+! Version: 20180626a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -281,6 +281,8 @@
 	allegro.pl##div[data-box-name^="Darmowa_dostawa"]
 	allegro.pl##div[data-box-name="pampers Karuzela"]
 	allegro.pl##div[data-box-name*=".brandedshop."]
+	allegro.pl##div[data-box-name="Bestsellery wyjazdowe"]
+	allegro.pl##div[data-box-name="Sztuka przetrwania"]
 
 ! Strona logowania
 	allegro.pl##div[ng-show="showNewLoginPageNotification"]
