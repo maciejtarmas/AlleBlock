@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20180627b
+! Version: 20180628a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -242,7 +242,7 @@
 	allegro.pl##div[data-box-name="f-links-column5"]
 	allegro.pl##div[data-box-name="f-links-column6"]
 	allegro.pl##div[data-box-name="Mobile app banner for iOS"]
-	allegro.pl##div[data-box-name="Mobile app banner for Android Base"]
+	allegro.pl##div[data-box-name="Mobile app banner for Android"]
 	allegro.pl##div[data-box-name="showcase.xmass.container"]
 	allegro.pl##div[data-box-name="title wrapper"]
 	allegro.pl##div[data-box-name="content.xmass"]
