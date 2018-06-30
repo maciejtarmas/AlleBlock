@@ -1,6 +1,6 @@
 # AlleBlock
 
-([Kliknij aby subskrybować][AlleBlock Subscribe])
+[Kliknij aby subskrybować][AlleBlock Subscribe]
 
 [AlleBlock Subscribe]: https://subscribe.adblockplus.org/?location=https://alleblock.pl/alleblock/alleblock.txt&title=AlleBlock
 
