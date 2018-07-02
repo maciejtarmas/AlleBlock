@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20180628b
+! Version: 20180702b
 !
 ! Homepage: https://alleblock.pl
 !
@@ -157,12 +157,17 @@
 ! Lista przedmiotów
 
 	allegro.pl##div[data-box-name="offer_ads"]
-	allegro.pl##section[class*="_61c59e4"]
+	allegro.pl##section[class*="_17557b8"]
 	allegro.pl##div[data-box-name="rekomendacje dla Ciebie"]
 	allegro.pl##div[data-box-name="articles"]
 	allegro.pl##div[data-box-name="Boxes suggester"]
 	allegro.pl##div[data-box-name="bottom-ads-container"]
 	allegro.pl##div[data-box-name="rekomendacje"]
+	allegro.pl##div[data-box-name="Tiles Left Container"]
+	allegro.pl##div[data-box-name="Tiles Bottom Container"]
+	allegro.pl##div[data-box-name="popularne miasta pc"]
+	allegro.pl##div[data-box-name="left-ads-container"]
+	allegro.pl##div[data-box-name="podobne wyszukiwania"]
 
 ! Strona przedmiotu
 
