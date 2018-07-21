@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20180706a
+! Version: 20180721a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -294,6 +294,7 @@
 	allegro.pl##div[data-prototype-id="allegro.advertisement.slot"]
 	allegro.pl##div[data-box-name="SummerExp"]
 	allegro.pl##div[data-box-name="Structurec_image_pins_DiO_06.07"]
+	allegro.pl##div[data-box-name="oferty przeciwdeszczowe"]
 
 ! Strona logowania
 	allegro.pl##div[ng-show="showNewLoginPageNotification"]
