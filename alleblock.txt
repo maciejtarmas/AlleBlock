@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20180721a
+! Version: 20180801a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -295,6 +295,7 @@
 	allegro.pl##div[data-box-name="SummerExp"]
 	allegro.pl##div[data-box-name="Structurec_image_pins_DiO_06.07"]
 	allegro.pl##div[data-box-name="oferty przeciwdeszczowe"]
+	allegro.pl##div[data-box-name="Klimatyzacja_SG_Kontener_glowny"]
 
 ! Strona logowania
 	allegro.pl##div[ng-show="showNewLoginPageNotification"]
@@ -541,6 +542,10 @@
 	olx.pl##div.otokredytbox.otokredytbox-ing-primary
 	olx.pl##td[colspan="2"] > form
 	olx.pl##div.offer-titlebox__buttons
+
+! Wyniki wyszukiwania
+
+	olx.pl##divobserve-search-banner.js-observe-search-banner
 
 ! Konto użytkownika
 	olx.pl##div#layer-apps
