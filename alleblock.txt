@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20180801a
+! Version: 20180801b
 !
 ! Homepage: https://alleblock.pl
 !
@@ -545,7 +545,7 @@
 
 ! Wyniki wyszukiwania
 
-	olx.pl##divobserve-search-banner.js-observe-search-banner
+	olx.pl##div.observe-search-banner.js-observe-search-banner
 
 ! Konto użytkownika
 	olx.pl##div#layer-apps
