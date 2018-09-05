@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20180903a
+! Version: 20180905a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -305,6 +305,7 @@
 	allegro.pl##div[data-box-name="Smart_placement_SOA_smart"]
 	allegro.pl##div[data-box-name="Interior_design_SG"]
 	allegro.pl##div[data-box-name="SMART_kontener_belek"]
+	allegro.pl##div[data-box-name="Interior_design_SG_RWD"]
 
 ! Strona logowania
 	allegro.pl##div[ng-show="showNewLoginPageNotification"]
