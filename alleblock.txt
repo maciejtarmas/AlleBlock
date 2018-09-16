@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20180913a
+! Version: 20180916a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -322,6 +322,7 @@
 	allegro.pl##div[data-box-name="podobne wyszukiwania kontener"]
 	allegro.pl##div[data-box-name="seo location links box"]
 	allegro.pl##div[data-box-name="seo location links container"]
+	allegro.pl##div[data-box-name="popularne miasta mob"]
 	
 ! Produkty z reklamy TV
 
@@ -422,6 +423,7 @@
 	m.ceneo.pl##div.cat-manufacturer-logotypes
 	m.ceneo.pl##div.row.center.showcase-row
 	m.ceneo.pl##div.footer-content
+	m.ceneo.pl##div.row.popup-card-row.popup-bg-cover.js_popup-materialize.active pos--bottom.anim.anim--bottom.show-x
 
 ! Magazyn Ceneo
 
