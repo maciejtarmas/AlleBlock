@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20180916a
+! Version: 20180918a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -423,7 +423,7 @@
 	m.ceneo.pl##div.cat-manufacturer-logotypes
 	m.ceneo.pl##div.row.center.showcase-row
 	m.ceneo.pl##div.footer-content
-	m.ceneo.pl##div.row.popup-card-row.popup-bg-cover.js_popup-materialize.active pos--bottom.anim.anim--bottom.show-x
+	m.ceneo.pl##.show-x.anim--bottom.anim.pos--bottom.active.js_popup-materialize.popup-bg-cover.popup-card-row.row
 
 ! Magazyn Ceneo
 
