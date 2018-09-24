@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20180923a
+! Version: 20180924a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -312,6 +312,7 @@
 	allegro.pl##div[data-box-name="Belka-desktop"]
 	allegro.pl##div[data-box-name^="EXP_variante"]
 	allegro.pl##div[data-box-name="Belka_licytacje_rwd"]
+	allegro.pl##div[data-box-name="belka.monety2"]
 
 ! Strona logowania
 	allegro.pl##div[ng-show="showNewLoginPageNotification"]
