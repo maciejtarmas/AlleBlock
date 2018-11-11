@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20181111a
+! Version: 20181111b
 !
 ! Homepage: https://alleblock.pl
 !
@@ -202,7 +202,8 @@
 	allegro.pl##div[data-box-name="bottom-ads-container"]
 	allegro.pl##div[data-box-name="articles"]
 	allegro.pl##div[data-box-name="popularne miasta mob"]
-	allegro.pl##section[class*="_17557b8"]
+	allegro.pl##section[class$="_17557b8"]
+	allegro.pl##div[data-box-name="seo text container"]
 
 ! Strona oferty
 
