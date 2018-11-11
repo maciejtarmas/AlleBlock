@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20181111b
+! Version: 20181111c
 !
 ! Homepage: https://alleblock.pl
 !
@@ -37,6 +37,7 @@
 	allegro.pl##div[data-box-name$="desktop-dfp-wrapper"]
 	allegro.pl##div[data-box-name$="desktop-nav-links"]
 	allegro.pl##div[data-box-name="check.freebox.container"] > div._26e29_3TEPn.v2144._26e29_1bLR9.opbox-sheet-wrapper
+	allegro.pl##div[data-box-name="promoted links"]
 
 ! Strona kategorii - reguły ogólne
 
