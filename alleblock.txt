@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20181111c
+! Version: 20181112a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -82,6 +82,7 @@
 	allegro.pl##div[data-box-name="polecane podkategorie"]
 	allegro.pl##div[data-box-name="belka zdrowie"]
 	allegro.pl##div[data-box-name="struktury 05.11-11.11"]
+	allegro.pl##div[data-box-name^="karuzela_rekomendacje_produkty"]
 
 ! Strona kategorii - Dziecko
 
@@ -208,6 +209,9 @@
 
 ! Strona oferty
 
+	allegro.pl##div[data-box-name="standalone_carousel_ads"]
+	allegro.pl##div[data-box-name="Container top_carousel_reco_same_seller"]
+	allegro.pl##div[data-box-name="Container carousel_reco_show_item_bottom"]
 	allegro.pl##div[data-box-name="standalone_carousel_ads"]
 
 ! Archiwum Allegro
