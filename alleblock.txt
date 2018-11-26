@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20181124b
+! Version: 20181126a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -32,6 +32,7 @@
 	allegro.pl##div[data-box-name="MobileAppBanner - RWD"]
 	allegro.pl##div[data-box-name*=".brandedshop."]
 	allegro.pl##div[data-box-name="Belka-desktop"]
+	allegro.pl##div[data-box-name="reco-batch-main-container"]
 
 ! Menu
 
@@ -156,7 +157,7 @@
 	allegro.pl##div[data-box-name="structure-links"]
 	allegro.pl##div[data-box-name="BELKA OFERTY AUTORYZOWANYCH DEALERÓW"]
 	allegro.pl##div[data-box-name="BELKA PROMOCJA WELCOME"]
-	allegro.pl##div[data-box-name="STRUKTURY NIE EMITOWANE"] ! ja bym w waszym przypadku napisał "nieemitowane" łącznie
+	allegro.pl##div[data-box-name="STRUKTURY NIE EMITOWANE"]
 	allegro.pl##div[data-box-name="allegro.modal AKOL/AUTO-MARKET"]
 	allegro.pl##div[data-box-name="allegro.modal AKTUALNE PROMOCJE"]
 	allegro.pl##div[data-box-name="allegro.modal CENNIK"]
