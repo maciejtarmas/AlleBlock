@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20190112a
+! Version: 20190119a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -33,7 +33,10 @@
 	allegro.pl##div[data-box-name*="brandedshop"]
 	allegro.pl##div[data-box-name="Belka-desktop"]
 	allegro.pl##div[data-box-name="reco-batch-main-container"]
-
+	allegro.pl##div[data-role="showcase-container"]
+	allegro.pl##div[data-role="image-tiles-container"]
+	allegro.pl##div[data-role="offer-container"]
+	
 ! Menu
 
 	allegro.pl##div[data-box-name$="desktop-dfp-wrapper"]
