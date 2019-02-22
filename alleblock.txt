@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20190119a
+! Version: 20190222a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -255,6 +255,8 @@
 	||assets.allegrostatic.com/opbox/allegro.pl/playground/nowe%20drzewo%20kategorii-test/*$domain=allegro.pl
 	||assets.allegrostatic.com/opbox/allegro.pl/playground/Seb%20Test%20Ogloszenia/*$domain=allegro.pl
 	||assets.allegrostatic.com/opbox/allegro.pl/playground/testowa_moja/*$domain=allegro.pl
+	||assets.allegrostatic.com/opbox/allegro.pl/homepage/Main%20Page/*$image,domain=allegro.pl
+	||assets.allegrostatic.com/opbox/allegro.pl/playground/CommertialStructures/*$image,domain=allegro.pl
 		
 	||doubleclick.net/*$domain=allegro.pl
 	||gemius.pl/*$domain=allegro.pl
