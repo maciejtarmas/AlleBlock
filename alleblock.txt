@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20190401a
+! Version: 20190411a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -229,6 +229,7 @@
 
 	allegro.pl##usp-banner.ng-isolate-scope
 	allegro.pl##mobile-details-banner.ng-isolate-scope
+	allegro.pl##div[data-box-name="mobile app advertisement wrapper"]
 
 ! Dziękujemy za zakupy
 
