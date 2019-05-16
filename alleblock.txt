@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20190504a
+! Version: 20190516a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -214,6 +214,7 @@
 	allegro.pl##div[data-box-name="seo text container"]
 	allegro.pl##div[data-box-name="rekomendacje"]
 	allegro.pl##div[data-box-name="allegro.locationSuggest"]
+	allegro.pl##div[data-box-name="premium.with.dfp"]
 
 ! Strona oferty
 
@@ -224,6 +225,7 @@
 	allegro.pl##div[data-box-name="Container carousel_reco_ended"]
 	allegro.pl##div[data-box-name="Christmas gift cards"]
 	allegro.pl##div[data-box-name="layout.container.recommendations.top"]
+	allegro.pl##div[data-box-name="Container carousel_last_viewed"]
 
 ! Moje Allegro
 
