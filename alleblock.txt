@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20190516a
+! Version: 20190612a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -472,6 +472,8 @@
 	olx.pl##div.otokredytbox.otokredytbox-ing-primary
 	olx.pl##td[colspan="2"] > form
 	olx.pl##div.offer-titlebox__buttons
+	olx.pl##div.offer-sidebar__box.offer-sidebar__box--flaggedads
+	olx.pl##a[href*="notus.pl"]
 
 ! Wyniki wyszukiwania
 
@@ -576,6 +578,7 @@
 	sprzedajemy.pl##div.offerDetailsRightBlueBox
 	sprzedajemy.pl##div.newest_offers
 	sprzedajemy.pl##p.remember_about_sprzedajemy
+	sprzedajemy.pl##div.similar-offers-box.sidebar-box expandable
 
 ! Konto użytkownika
 	
