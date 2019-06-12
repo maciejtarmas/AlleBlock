@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20190612a
+! Version: 20190612b
 !
 ! Homepage: https://alleblock.pl
 !
@@ -309,6 +309,7 @@
 	ceneo.pl##div.expert-articles.js_expert-articles-box
 	ceneo.pl##div.product-list-reviews.js_product-list-reviews-box
 	ceneo.pl##div.billboard
+	ceneo.pl##div.sticky-offer-bar.js_sticky-offer-bar.slide-up
 
 ! Strona produktu
 
