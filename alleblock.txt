@@ -4,7 +4,7 @@
 !
 ! Description: Ukrywa uciążliwe i zbędne elementy polskich serwisów e-commerce
 !
-! Version: 20190612b
+! Version: 20190626a
 !
 ! Homepage: https://alleblock.pl
 !
@@ -246,6 +246,11 @@
 	allegro.pl##div[data-box-name="layout.container.recommendations.bottom"]
 	allegro.pl##div[data-box-name="naAllegro"]
 
+! Artykuł
+
+	allegro.pl##div[data-box-name="Article Container nested"] > div > div > div[data-analytics-category="allegro.offer.tiles"]
+	allegro.pl##div[data-box-name="Social Buttons Vertical Full-height container"]
+	
 ! Skrypty/Trackery/Zasoby
 
 	||allegroimg.com/s480/*$domain=allegro.pl
