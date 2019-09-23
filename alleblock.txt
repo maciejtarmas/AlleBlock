@@ -37,6 +37,7 @@
 	allegro.pl##div[data-role="offer-container"]
 	allegro.pl##div[data-box-name="Struktura_SG_Main_Container"]
 	allegro.pl##div[data-prototype-id="allegro.expandableAdvertisement"]
+	allegro.pl##.main-wrapper > div:nth-of-type(1)
 	
 ! Menu
 
