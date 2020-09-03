@@ -216,7 +216,7 @@
 	allegro.pl##div[data-box-name="allegro.locationSuggest"]
 	allegro.pl##div[data-box-name="premium.with.dfp"]
 	allegro.pl##div[data-box-name="cart_reco_bought"]
-	allegro.pl##article>div:has-text(Oferta sponsorowana)
+	allegro.pl##[data-analytics-view-label="showSponsoredItems"]
 
 ! Strona oferty
 
