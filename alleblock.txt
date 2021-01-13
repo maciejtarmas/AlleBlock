@@ -42,6 +42,7 @@
 	allegro.pl##div[data-box-name="allegro.smart.status"]
 	allegro.pl##div[data-box-name="promoted.links.grid.container"]
 	allegro.pl##div[data-box-name="container"]
+	allegro.pl##div[data-box-name="Belka-desktop"]
 
 	allegro.pl##div#kampyleFormContainer
 
