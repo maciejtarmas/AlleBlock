@@ -41,6 +41,13 @@
 
 	allegro.pl##div#kampyleFormContainer
 
+! Interfejs mobilny
+	
+	allegro.pl##div[data-box-name="allegro.bar.mobileApp"]
+	allegro.pl##div[data-box-name="allegro.user.profile.card"]
+	allegro.pl##div[data-box-name="allegro.showcase.main.mobile container"]
+	allegro.pl##div[data-box-name^="MobileAppBanner"]
+
 ! Menu str. główna ogólne
 
 	allegro.pl##div[data-box-name$="desktop-dfp-wrapper"]
@@ -71,6 +78,7 @@
 
 	||assets.allegrostatic.com/opbox-gdpr-consents/*$domain=allegro.pl
 	||a.allegroimg.com/original/*$domain=allegro.pl
+	@@||a.allegroimg.com/original/128d44/*$domain=allegro.pl
 
 	||analytics.google.com/*$domain=allegro.pl
 	||doubleclick.net/*$domain=allegro.pl
