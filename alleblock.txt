@@ -99,6 +99,7 @@
 	||smartadserver.com/*$domain=allegro.pl
 	||adform.net/*$domain=allegro.pl
 	||datadome.co/*$domain=allegro.pl
+	||flashtalking.com/*$domain=allegro.pl
 	
 	||assets.allegrostatic.com/metrum/icon/appstore*$domain=allegro.pl
 	||assets.allegrostatic.com/metrum/icon/playstore*$domain=allegro.pl
@@ -109,3 +110,5 @@
 	||assets.allegrostatic.com/metrum/icon/pinterest*$domain=allegro.pl
 	||assets.allegrostatic.com/metrum/icon/youtube*$domain=allegro.pl
 	||assets.allegrostatic.com/metrum/icon/charity*$domain=allegro.pl
+	
+	||allegroimg.com/s480/*$domain=allegro.pl
