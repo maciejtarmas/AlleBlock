@@ -25,7 +25,6 @@
 	allegro.pl##div[data-role="image-tiles-container"]
 	allegro.pl##div[data-role="offer-container"]
 	allegro.pl##div[data-box-name="structure-tabs"]
-	allegro.pl##div[data-analytics-tags*="Content GMV"]
 	allegro.pl##div[data-box-name="structure-links"]
 	allegro.pl##div[data-box-name="metrum-footer-partial-expander"]
 	allegro.pl##div[data-box-name="f-social"]
@@ -38,6 +37,8 @@
 	allegro.pl##div[data-box-name="promoted.links.grid.container"]
 	allegro.pl##div[data-box-name="container"]
 	allegro.pl##div[data-box-name="Belka-desktop"]
+	allegro.pl##div[data-box-name="lazy content"]
+	allegro.pl##div[data-box-name="allegro.showcase.premium.main.container"]
 
 	allegro.pl##div#kampyleFormContainer
 
@@ -47,6 +48,8 @@
 	allegro.pl##div[data-box-name="allegro.user.profile.card"]
 	allegro.pl##div[data-box-name="allegro.showcase.main.mobile container"]
 	allegro.pl##div[data-box-name^="MobileAppBanner"]
+	allegro.pl##div[data-box-name="showcase mobile container"]
+	allegro.pl##div[data-box-name="popularne miasta mob"]
 
 ! Menu str. główna ogólne
 
@@ -90,6 +93,8 @@
 	||kampyle.com/*$domain=allegro.pl
 	||ngastatic.com/s4c/tracker.js$domain=allegro.pl
 	||smartadserver.com/*$domain=allegro.pl
+	||adform.net/*$domain=allegro.pl
+	||datadome.co/*$domain=allegro.pl
 	
 	||assets.allegrostatic.com/metrum/icon/appstore*$domain=allegro.pl
 	||assets.allegrostatic.com/metrum/icon/playstore*$domain=allegro.pl
