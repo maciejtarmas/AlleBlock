@@ -77,6 +77,10 @@
 	allegro.pl##div[data-box-name="offers_reco_bottom_marker"]
 	allegro.pl##div[data-box-name="Container carousel_last_viewed"]
 
+! Moje Allegro
+
+	allegro.pl##div[data-box-name="deals"]
+
 ! Dziekujemy za zakupy
 
 	allegro.pl##div[data-box-name="promo-services-container"]
