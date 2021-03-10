@@ -119,4 +119,4 @@
 	||assets.allegrostatic.com/opbox-plugin-facebook-tracking/*$domain=allegro.pl
 	||assets.allegrostatic.com/gemius/*$domain=allegro.pl
 	||assets.allegrostatic.com/opbox-adblock-detector/*$domain=allegro.pl
-	||assets.allegrostatic.com/opbox-advertisement-box/*$domain=allegro.pl
+	||assets.allegrostatic.com/opbox-advertisement-box/*$script,domain=allegro.pl
