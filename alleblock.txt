@@ -81,6 +81,7 @@
 ! Moje Allegro
 
 	allegro.pl##div[data-box-name="deals"]
+	allegro.pl##div[data-box-name="mobileAppBanner Container"]
 
 ! Dziekujemy za zakupy
 
