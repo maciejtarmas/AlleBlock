@@ -78,6 +78,12 @@
 	allegro.pl##div[data-box-name="Container carousel_last_viewed"]
 	allegro.pl##div[data-box-name="Container carousel_reco_show_item_bottom-placeholder"]
 
+! Strona oferty - zakończona
+
+	allegro.pl##div[data-box-name="Container carousel reco ended"]
+	allegro.pl##div[data-box-name="lazy_standalone_carousel_ads"]
+	allegro.pl##div[data-box-name="Container carousel_reco_ended"]
+
 ! Moje Allegro
 
 	allegro.pl##div[data-box-name="deals"]
