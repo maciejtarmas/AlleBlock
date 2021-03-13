@@ -55,6 +55,11 @@
 	allegro.pl##div[data-box-name$="desktop-dfp-wrapper"]
 	allegro.pl##div[data-box-name$="desktop-nav-links"]
 
+! Koszyk
+
+	allegro.pl##div[data-box-name="image.desktop"]
+	allegro.pl##div[data-box-name="image.mobile"]
+
 ! Lista ofert + wyniki wyszukiwania
 	
 	allegro.pl##div[data-box-name="premium.with.dfp"]
