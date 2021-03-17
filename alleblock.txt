@@ -49,6 +49,7 @@
 	allegro.pl##div[data-box-name^="MobileAppBanner"]
 	allegro.pl##div[data-box-name="showcase mobile container"]
 	allegro.pl##div[data-box-name="popularne miasta mob"]
+	allegro.pl##div[data-box-name="kontenerek_z_warunkiem"]
 
 ! Menu str. główna ogólne
 
