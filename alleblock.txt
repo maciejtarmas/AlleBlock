@@ -40,6 +40,7 @@
 	allegro.pl##div[data-box-name="lazy content"]
 	allegro.pl##div[data-box-name="allegro.showcase.premium.main.container"]
 	allegro.pl##div[data-box-name="allegro.richText.image"]
+	allegro.pl##div[data-box-name="allegro.modal Sns"]
 
 	allegro.pl##div#kampyleFormContainer
 
