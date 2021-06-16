@@ -82,6 +82,7 @@
 	allegro.pl##div[data-box-name="survey-container"]
 	allegro.pl##div[data-box-name="podobne wyszukiwania kontener"]
 	allegro.pl##article[data-role="offer"] > section
+	allegro.pl##div[data-box-name="premium.with.dfp.bottom"]
 	
 	! toporny sposób na wywalenie kolejnej iteracji "zapłać później" czy jak to oni tam nazwali
 	
