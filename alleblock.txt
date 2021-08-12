@@ -58,6 +58,7 @@
 	allegro.pl##div[data-box-name="popularne miasta mob"]
 	allegro.pl##div[data-box-name="kontenerek_z_warunkiem"]
 	allegro.pl##div[data-box-name="attentioner_navigate__RWD"]
+	allegro.pl##div[data-box-name="RENDER_FIRST_OCCURANCE"]
 
 ! Menu str. główna ogólne
 
