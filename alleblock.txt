@@ -114,6 +114,8 @@
 	allegro.pl##div[data-box-name="promo-services-container"]
 	allegro.pl##div[data-box-name="reco-grid"]
 	allegro.pl##div[data-box-name="ad-wrapper"]
+	allegro.pl##div[data-box-name="booster-family-container"]
+	allegro.pl##div[data-box-name="reco-grid v2"]
 	
 ! Skrypty/Trackery/Zasoby
 
