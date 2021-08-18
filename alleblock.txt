@@ -103,6 +103,7 @@
 	allegro.pl##div[data-box-name="Container carousel reco ended"]
 	allegro.pl##div[data-box-name="lazy_standalone_carousel_ads"]
 	allegro.pl##div[data-box-name="Container carousel_reco_ended"]
+	allegro.pl##div[data-box-name="finished_lazy_standalone_carousel_ads"]
 
 ! Moje Allegro
 
