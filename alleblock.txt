@@ -117,6 +117,10 @@
 	allegro.pl##div[data-box-name="ad-wrapper"]
 	allegro.pl##div[data-box-name="booster-family-container"]
 	allegro.pl##div[data-box-name="reco-grid v2"]
+
+! Elementy pojawiające się po wykryciu adblocka (np. banner "Okazja wybrana dla Ciebie" na stronie "Dziękujemy za zakupy")
+
+	allegro.pl##div[data-box-name*="adblockDetector"]
 	
 ! Skrypty/Trackery/Zasoby
 
