@@ -42,6 +42,9 @@
 	allegro.pl##div[data-box-name="allegro.richText.image"]
 	allegro.pl##div[data-box-name="allegro.modal Sns"]
 	allegro.pl##div[data-box-name="IGNORE.allegro.attentioner.modal"]
+	allegro.pl##div[data-box-name="Struktura_SG_Main_Container"]
+	allegro.pl##div[data-box-name*="Górne"]
+	allegro.pl##div[data-box-name*="Dolne"]
 
 	allegro.pl##div#kampyleFormContainer
 
