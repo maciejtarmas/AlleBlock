@@ -42,9 +42,8 @@
 	allegro.pl##div[data-box-name="allegro.richText.image"]
 	allegro.pl##div[data-box-name="allegro.modal Sns"]
 	allegro.pl##div[data-box-name="IGNORE.allegro.attentioner.modal"]
-	allegro.pl##div[data-box-name="Struktura_SG_Main_Container"]
-	allegro.pl##div[data-box-name*="Górne"]
-	allegro.pl##div[data-box-name*="Dolne"]
+	allegro.pl##div[data-box-name="Single Image Variant Container"]
+	allegro.pl##div[data-box-name="mainPage.wrapper"]
 
 	allegro.pl##div#kampyleFormContainer
 
@@ -94,12 +93,13 @@
 
 ! Strona oferty
 
-	allegro.pl##div[data-box-name="Container PPC Offers"]
+	allegro.pl##div[data-box-name="Container Top PPC Offers"]
 	allegro.pl##div[data-box-name="Container Advertisment Premium"]
 	allegro.pl##div[data-box-name="Container carousel_reco_show_item_bottom"]
 	allegro.pl##div[data-box-name="offers_reco_bottom_marker"]
 	allegro.pl##div[data-box-name="Container carousel_last_viewed"]
 	allegro.pl##div[data-box-name="Container carousel_reco_show_item_bottom-placeholder"]
+	allegro.pl##div[data-box-name="layout.advertisement"]
 
 ! Strona oferty - zakończona
 
@@ -120,10 +120,6 @@
 	allegro.pl##div[data-box-name="ad-wrapper"]
 	allegro.pl##div[data-box-name="booster-family-container"]
 	allegro.pl##div[data-box-name="reco-grid v2"]
-
-! Elementy pojawiające się po wykryciu adblocka (np. banner "Okazja wybrana dla Ciebie" na stronie "Dziękujemy za zakupy")
-
-	allegro.pl##div[data-box-name*="adblockDetector"]
 	
 ! Skrypty/Trackery/Zasoby
 
@@ -157,3 +153,43 @@
 	||assets.allegrostatic.com/gemius/*$domain=allegro.pl
 	||assets.allegrostatic.com/opbox-adblock-detector/*$domain=allegro.pl
 	||assets.allegrostatic.com/opbox-advertisement-box/*$script,domain=allegro.pl
+
+! Pozostałe elementy
+
+	allegro.pl##div[data-box-name*="adblockDetector"]
+
+! ****************************** ARCHIWUM.ALLEGRO.PL ******************************
+
+! Strona główna
+
+	archiwum.allegro.pl##div[data-box-name="naAllegro"]
+	
+! Sponsorowane (strona oferty i wyników wyszukiwania)
+
+	archiwum.allegro.pl##div[data-box-name="allegro.advertising.adspremium"]
+	archiwum.allegro.pl##div[data-box-name="layout.container.ads"]
+
+! Rekomendacje (strona oferty)
+
+	archiwum.allegro.pl##div[data-box-name="layout.container.recommendations.top"]
+	archiwum.allegro.pl##div[data-box-name="layout.container.recommendations.bottom"]
+
+
+! ****************************** ALLEGROLOKALNIE.PL ******************************
+
+! Ogólne
+
+	allegrolokalnie.pl##.topheader
+	allegrolokalnie.pl##.footer-banner
+
+! Strona główna
+
+	allegrolokalnie.pl##.mlc-home-page__greeting
+	allegrolokalnie.pl##.mlc-home-page__hero-carousel
+	allegrolokalnie.pl##.mlc-home-page__goals
+	allegrolokalnie.pl##.mlc-home-page__service-info
+	allegrolokalnie.pl##.mlc-home-page-carousels
+
+! Sponsorowane (strona oferty)
+
+	allegrolokalnie.pl##.mlc-offer__sp-offers
