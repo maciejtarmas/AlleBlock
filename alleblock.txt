@@ -93,7 +93,7 @@
 
 ! Strona oferty
 
-	allegro.pl##div[data-box-name="Container Top PPC Offers"]
+	allegro.pl##div[data-box-name="Container PPC Offers"]
 	allegro.pl##div[data-box-name="Container Advertisment Premium"]
 	allegro.pl##div[data-box-name="Container carousel_reco_show_item_bottom"]
 	allegro.pl##div[data-box-name="offers_reco_bottom_marker"]
