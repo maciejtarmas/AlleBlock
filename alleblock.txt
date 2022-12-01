@@ -100,7 +100,7 @@
 	allegro.pl##div[data-box-name="Container carousel_last_viewed"]
 	allegro.pl##div[data-box-name="Container carousel_reco_show_item_bottom-placeholder"]
 	allegro.pl##div[data-box-name="layout.advertisement"]
-	! allegro.pl##div[data-box-name="container.moreOf"]
+	allegro.pl##div[data-box-name="container.moreOf"]
 
 ! Strona oferty - zakończona
 
