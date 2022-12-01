@@ -93,14 +93,14 @@
 
 ! Strona oferty
 
-	allegro.pl##div[data-box-name="Container PPC Offers"]
+	allegro.pl##div[data-box-name="Carousel card"]
 	allegro.pl##div[data-box-name="Container Advertisment Premium"]
 	allegro.pl##div[data-box-name="Container carousel_reco_show_item_bottom"]
 	allegro.pl##div[data-box-name="offers_reco_bottom_marker"]
 	allegro.pl##div[data-box-name="Container carousel_last_viewed"]
 	allegro.pl##div[data-box-name="Container carousel_reco_show_item_bottom-placeholder"]
 	allegro.pl##div[data-box-name="layout.advertisement"]
-	allegro.pl##div[data-box-name="container.moreOf"]
+	! allegro.pl##div[data-box-name="container.moreOf"]
 
 ! Strona oferty - zakończona
 
