@@ -165,8 +165,12 @@
 ! Strona główna
 
 	archiwum.allegro.pl##div[data-box-name="naAllegro"]
+
+! Aktualne oferty (listing; na kij to komu skoro to archiwum?)
+
+	archiwum.allegro.pl##div[data-box-name="allegro.listing.righAboveItems.container"]
 	
-! Sponsorowane (strona oferty i wyników wyszukiwania)
+! Sponsorowane (listing i strona oferty)
 
 	archiwum.allegro.pl##div[data-box-name="allegro.advertising.adspremium"]
 	archiwum.allegro.pl##div[data-box-name="layout.container.ads"]
