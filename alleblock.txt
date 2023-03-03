@@ -19,6 +19,8 @@
 ! ****************************** ALLEGRO.PL ******************************
 
 ! Strona główna + belka
+	! 'HP Redesign' update - filtry pod starszy layout będą dostępne jeszcze przez jakiś czas
+	allegro.pl##div[data-box-name="HP Redesign Content"]
 
 	allegro.pl##div[data-prototype-id="allegro.expandableAdvertisement"]
 	allegro.pl##div[data-role="showcase-container"]
