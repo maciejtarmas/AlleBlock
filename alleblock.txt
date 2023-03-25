@@ -89,9 +89,12 @@
 	allegro.pl##article[data-role="offer"] > section
 	allegro.pl##div[data-box-name="premium.with.dfp.bottom"]
 	allegro.pl##article[data-analytics-view-custom-context="SPONSORED"]
+	allegro.pl##div[data-box-name="ESR_recommendation.container"]
+	
+	! wykreślankom mówimy won
+	allegro.pl##._000b0_OXLb7
 	
 	! toporny sposób na wywalenie kolejnej iteracji "zapłać później" czy jak to oni tam nazwali
-	
 	allegro.pl##div.opbox-listing > div > section > section
 
 ! Strona oferty
