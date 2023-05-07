@@ -91,6 +91,9 @@
 	allegro.pl##article[data-analytics-view-custom-context="SPONSORED"]
 	allegro.pl##div[data-box-name="ESR_recommendation.container"]
 	
+	! ukrywa oferty wyłącznie dla kont firmowych
+	allegro.pl##article:has(span:has-text(dla biznesu))
+	
 	! wykreślankom mówimy won
 	allegro.pl##._000b0_OXLb7
 	
