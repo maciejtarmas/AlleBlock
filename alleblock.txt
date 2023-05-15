@@ -174,9 +174,10 @@
 
 	archiwum.allegro.pl##div[data-box-name="naAllegro"]
 
-! Aktualne oferty (listing; na kij to komu skoro to archiwum?)
+! Elementy nie mające nic wspólnego z archiwum (aktualne oferty, top na Allegro etc.)
 
 	archiwum.allegro.pl##div[data-box-name="allegro.listing.righAboveItems.container"]
+	archiwum.allegro.pl##div[data-box-name="container products"]
 	
 ! Sponsorowane (listing i strona oferty)
 
@@ -187,6 +188,11 @@
 
 	archiwum.allegro.pl##div[data-box-name="layout.container.recommendations.top"]
 	archiwum.allegro.pl##div[data-box-name="layout.container.recommendations.bottom"]
+	
+! Smart Week (tymczasowe)
+
+	archiwum.allegro.pl##div[data-box-name="modalSmartWeek"]
+	archiwum.allegro.pl##div[data-box-name="banner-top-desktop-smart-week"]
 
 
 ! ****************************** ALLEGROLOKALNIE.PL ******************************
@@ -204,6 +210,6 @@
 	allegrolokalnie.pl##.mlc-home-page__service-info
 	allegrolokalnie.pl##.mlc-home-page-carousels
 
-! Sponsorowane (strona oferty)
-
+! Strona oferty
+	allegrolokalnie.pl##.mlc-offer__smart-offers
 	allegrolokalnie.pl##.mlc-offer__sp-offers
