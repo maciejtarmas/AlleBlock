@@ -177,8 +177,10 @@
 
 	archiwum.allegro.pl##div[data-box-name="naAllegro"]
 
-! Elementy nie mające nic wspólnego z archiwum (aktualne oferty, top na Allegro etc.)
+! Elementy zbędne i nie mające nic wspólnego z archiwum (bannery, aktualne oferty, top na Allegro etc.)
 
+	archiwum.allegro.pl##div[data-box-name="banner-top-desktop-allegro-pay-business"]
+	archiwum.allegro.pl##div[data-box-name="banner-desktop-allegro-pay-business"]
 	archiwum.allegro.pl##div[data-box-name="allegro.listing.righAboveItems.container"]
 	archiwum.allegro.pl##div[data-box-name="container products"]
 	
@@ -191,7 +193,7 @@
 
 	archiwum.allegro.pl##div[data-box-name="layout.container.recommendations.top"]
 	archiwum.allegro.pl##div[data-box-name="layout.container.recommendations.bottom"]
-	
+
 ! Smart Week (tymczasowe)
 
 	archiwum.allegro.pl##div[data-box-name="modalSmartWeek"]
