@@ -96,6 +96,9 @@
 	
 	! wykreślankom mówimy won
 	allegro.pl##._000b0_OXLb7
+
+	! kolejny odsiew "sponsorowanych" między "zwykłymi" ofertami w liście
+	allegro.pl##article:has(span:has-text(Sponsorowane))
 	
 	! toporny sposób na wywalenie kolejnej iteracji "zapłać później" czy jak to oni tam nazwali
 	allegro.pl##div.opbox-listing > div > section > section
