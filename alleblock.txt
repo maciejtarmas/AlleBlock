@@ -177,26 +177,24 @@
 
 	archiwum.allegro.pl##div[data-box-name="naAllegro"]
 
-! Elementy zbędne i nie mające nic wspólnego z archiwum (bannery, aktualne oferty, top na Allegro etc.)
+! Elementy zbędne i nie mające nic wspólnego z archiwum (bannery, aktualne oferty, sponsorowane, top na Allegro etc.)
 
+	archiwum.allegro.pl##div[data-box-name="lazy"]
+	archiwum.allegro.pl##div[data-box-name*="allegro.listing.left.popular.container"]
+	archiwum.allegro.pl##div[data-box-name="banner-bottom-mobile-allegro-polecam"]
 	archiwum.allegro.pl##div[data-box-name="banner-top-desktop-allegro-pay-business"]
-	archiwum.allegro.pl##div[data-box-name="banner-desktop-allegro-pay-business"]
 	archiwum.allegro.pl##div[data-box-name="allegro.listing.righAboveItems.container"]
-	archiwum.allegro.pl##div[data-box-name="container products"]
-	
-! Sponsorowane (listing i strona oferty)
-
 	archiwum.allegro.pl##div[data-box-name="allegro.advertising.adspremium"]
-	archiwum.allegro.pl##div[data-box-name="layout.container.ads"]
 
-! Rekomendacje (strona oferty)
+! Rekomendacje
 
 	archiwum.allegro.pl##div[data-box-name="layout.container.recommendations.top"]
 	archiwum.allegro.pl##div[data-box-name="layout.container.recommendations.bottom"]
 
-! Smart Week (tymczasowe)
+! Smart Week
 
 	archiwum.allegro.pl##div[data-box-name="modalSmartWeek"]
+	archiwum.allegro.pl##div[data-box-name="smart-week-modal"]
 	archiwum.allegro.pl##div[data-box-name="banner-top-desktop-smart-week"]
 
 
