@@ -202,8 +202,8 @@
 
 ! Ogólne
 
-	allegrolokalnie.pl##.topheader
 	allegrolokalnie.pl##.footer-banner
+	allegrolokalnie.pl##.mlc-top-header
 
 ! Strona główna
 
