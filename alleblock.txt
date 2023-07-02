@@ -212,6 +212,7 @@
 	allegrolokalnie.pl##.mlc-home-page__goals
 	allegrolokalnie.pl##.mlc-home-page__service-info
 	allegrolokalnie.pl##.mlc-home-page-carousels
+	allegrolokalnie.pl##.mlc-home-page__benefits
 
 ! Strona oferty
 	allegrolokalnie.pl##.mlc-offer__smart-offers
