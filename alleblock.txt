@@ -181,6 +181,7 @@
 
 	archiwum.allegro.pl##div[data-box-name="lazy"]
 	archiwum.allegro.pl##div[data-box-name*="allegro.listing.left.popular.container"]
+	archiwum.allegro.pl##div[data-box-name*="allegro.listing.left.recentlyArchived.container"]
 	archiwum.allegro.pl##div[data-box-name="banner-bottom-mobile-allegro-polecam"]
 	archiwum.allegro.pl##div[data-box-name="banner-top-desktop-allegro-pay-business"]
 	archiwum.allegro.pl##div[data-box-name="allegro.listing.righAboveItems.container"]
