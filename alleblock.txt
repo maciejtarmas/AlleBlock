@@ -91,6 +91,10 @@
 	allegro.pl##article[data-analytics-view-custom-context="SPONSORED"]
 	allegro.pl##div[data-box-name="ESR_recommendation.container"]
 	
+	! "Najwyżej oceniane"
+	allegro.pl##div[data-box-name="allegro.analyticsPlaceholder.topRatedV2"]
+	allegro.pl##div[data-box-name="layout.container.topRated"]
+	
 	! ukrywa oferty wyłącznie dla kont firmowych
 	allegro.pl##article:has(span:has-text(dla biznesu))
 	
