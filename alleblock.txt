@@ -225,3 +225,4 @@
 ! Strona oferty
 	allegrolokalnie.pl##.mlc-offer__smart-offers
 	allegrolokalnie.pl##.mlc-offer__sp-offers
+	allegrolokalnie.pl##.mlc-offer__similar-offers
