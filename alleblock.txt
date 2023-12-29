@@ -19,6 +19,8 @@
 ! ****************************** ALLEGRO.PL ******************************
 
 ! Strona główna + belka
+	! 'HP Redesign' update - filtry pod starszy layout będą dostępne jeszcze przez jakiś czas
+	allegro.pl##div[data-box-name="HP Redesign Content"]
 
 	allegro.pl##div[data-prototype-id="allegro.expandableAdvertisement"]
 	allegro.pl##div[data-role="showcase-container"]
@@ -42,6 +44,8 @@
 	allegro.pl##div[data-box-name="allegro.richText.image"]
 	allegro.pl##div[data-box-name="allegro.modal Sns"]
 	allegro.pl##div[data-box-name="IGNORE.allegro.attentioner.modal"]
+	allegro.pl##div[data-box-name="Single Image Variant Container"]
+	allegro.pl##div[data-box-name="mainPage.wrapper"]
 
 	allegro.pl##div#kampyleFormContainer
 
@@ -84,19 +88,35 @@
 	allegro.pl##div[data-box-name="podobne wyszukiwania kontener"]
 	allegro.pl##article[data-role="offer"] > section
 	allegro.pl##div[data-box-name="premium.with.dfp.bottom"]
+	allegro.pl##article[data-analytics-view-custom-context="SPONSORED"]
+	allegro.pl##div[data-box-name="ESR_recommendation.container"]
+	
+	! "Najwyżej oceniane"
+	allegro.pl##div[data-box-name="allegro.analyticsPlaceholder.topRatedV2"]
+	allegro.pl##div[data-box-name="layout.container.topRated"]
+	
+	! ukrywa oferty wyłącznie dla kont firmowych
+	allegro.pl##article:has(span:has-text(dla biznesu))
+	
+	! wykreślankom mówimy won
+	allegro.pl##._000b0_OXLb7
+
+	! kolejny odsiew "sponsorowanych" między "zwykłymi" ofertami w liście
+	allegro.pl##article:has(span:has-text(Sponsorowane))
 	
 	! toporny sposób na wywalenie kolejnej iteracji "zapłać później" czy jak to oni tam nazwali
-	
 	allegro.pl##div.opbox-listing > div > section > section
 
 ! Strona oferty
 
-	allegro.pl##div[data-box-name="Container PPC Offers"]
+	allegro.pl##div[data-box-name="Carousel card"]
 	allegro.pl##div[data-box-name="Container Advertisment Premium"]
 	allegro.pl##div[data-box-name="Container carousel_reco_show_item_bottom"]
 	allegro.pl##div[data-box-name="offers_reco_bottom_marker"]
 	allegro.pl##div[data-box-name="Container carousel_last_viewed"]
 	allegro.pl##div[data-box-name="Container carousel_reco_show_item_bottom-placeholder"]
+	allegro.pl##div[data-box-name="layout.advertisement"]
+	allegro.pl##div[data-box-name="container.moreOf"]
 
 ! Strona oferty - zakończona
 
@@ -150,3 +170,59 @@
 	||assets.allegrostatic.com/gemius/*$domain=allegro.pl
 	||assets.allegrostatic.com/opbox-adblock-detector/*$domain=allegro.pl
 	||assets.allegrostatic.com/opbox-advertisement-box/*$script,domain=allegro.pl
+
+! Pozostałe elementy
+
+	allegro.pl##div[data-box-name*="adblockDetector"]
+
+! ****************************** ARCHIWUM.ALLEGRO.PL ******************************
+
+! Strona główna
+
+	archiwum.allegro.pl##div[data-box-name="naAllegro"]
+
+! Elementy zbędne i nie mające nic wspólnego z archiwum (bannery, aktualne oferty, sponsorowane, top na Allegro etc.)
+
+	archiwum.allegro.pl##div[data-box-name="lazy"]
+	archiwum.allegro.pl##div[data-box-name*="allegro.listing.left.popular.container"]
+	archiwum.allegro.pl##div[data-box-name*="allegro.listing.left.recentlyArchived.container"]
+	archiwum.allegro.pl##div[data-box-name="banner.bottom.okazja"]
+	archiwum.allegro.pl##div[data-box-name="similar.searches.container"]
+	archiwum.allegro.pl##div[data-box-name="bottom-ads-container"]
+	archiwum.allegro.pl##div[data-box-name="banner-bottom-mobile-allegro-polecam"]
+	archiwum.allegro.pl##div[data-box-name="banner-top-desktop-allegro-pay-business"]
+	archiwum.allegro.pl##div[data-box-name="allegro.listing.righAboveItems.container"]
+	archiwum.allegro.pl##div[data-box-name="allegro.advertising.adspremium"]
+
+! Rekomendacje
+
+	archiwum.allegro.pl##div[data-box-name="layout.container.recommendations.top"]
+	archiwum.allegro.pl##div[data-box-name="layout.container.recommendations.bottom"]
+
+! Smart Week
+
+	archiwum.allegro.pl##div[data-box-name="modalSmartWeek"]
+	archiwum.allegro.pl##div[data-box-name="smart-week-modal"]
+	archiwum.allegro.pl##div[data-box-name="banner-top-desktop-smart-week"]
+
+
+! ****************************** ALLEGROLOKALNIE.PL ******************************
+
+! Ogólne
+
+	allegrolokalnie.pl##.footer-banner
+	allegrolokalnie.pl##.mlc-top-header
+
+! Strona główna
+
+	allegrolokalnie.pl##.mlc-home-page__greeting
+	allegrolokalnie.pl##.mlc-home-page__hero-carousel
+	allegrolokalnie.pl##.mlc-home-page__goals
+	allegrolokalnie.pl##.mlc-home-page__service-info
+	allegrolokalnie.pl##.mlc-home-page-carousels
+	allegrolokalnie.pl##.mlc-home-page__benefits
+
+! Strona oferty
+	allegrolokalnie.pl##.mlc-offer__smart-offers
+	allegrolokalnie.pl##.mlc-offer__sp-offers
+	allegrolokalnie.pl##.mlc-offer__similar-offers
